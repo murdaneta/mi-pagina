@@ -1,0 +1,3138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cumul-extension\n"
+"POT-Creation-Date: 2015-11-12 21:18-0800\n"
+"PO-Revision-Date: 2015-11-12 21:19-0800\n"
+"Last-Translator: \n"
+"Language-Team: Theme-Paradise <ceo@theme-paradise.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: E:\\Works\\www\\cumulo\\wp-content\\plugins\\cumulo-"
+"extension\n"
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:54
+msgid "Mobile"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:55
+msgid "Laptop"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:56
+msgid "Desktop"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:57
+msgid "Tablet"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:58
+msgid "Phone"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:59
+msgid "Document"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:60
+msgid "Documents"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:61
+msgid "Search"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:62
+msgid "Clipboard"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:63
+msgid "Newspaper"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:64
+msgid "Notebook"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:65
+msgid "Book Open"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:66
+msgid "Browser"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:67
+msgid "Calendar"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:68
+msgid "Presentation"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:69
+msgid "Picture"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:70
+msgid "Pictures"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:71
+msgid "Video"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:72
+msgid "Camera"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:73
+msgid "Printer"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:74
+msgid "Toolbox"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:75
+msgid "Briefcase"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:76
+msgid "Wallet"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:77
+msgid "Gift"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:78
+msgid "Bargraph"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:79
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:292
+msgid "Grid"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:80
+msgid "Expand"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:81
+msgid "Focus"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:82
+msgid "Edit"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:83
+msgid "Adjustments"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:84
+msgid "Ribbon"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:85
+msgid "Hourglass"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:86
+msgid "Lock"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:87
+msgid "Megaphone"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:88
+msgid "Shield"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:89
+msgid "Trophy"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:90
+msgid "Flag"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:91
+msgid "Map"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:92
+msgid "Puzzle"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:93
+msgid "Basket"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:94
+msgid "Envelope"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:95
+msgid "Street Sign"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:96
+msgid "Telescope"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:97
+msgid "Gears"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:98
+msgid "Key"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:99
+msgid "Paper Clip"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:100
+msgid "Attachment"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:101
+msgid "Pricetags"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:102
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:104
+msgid "Lightbulb"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:103
+msgid "Layers"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:105
+msgid "Tools"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:106
+msgid "Tools 2"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:107
+msgid "Scissors"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:108
+msgid "Paintbrush"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:109
+msgid "Magnifying Glass"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:110
+msgid "Circle Compass"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:111
+msgid "Linegraph"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:112
+msgid "Mic"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:113
+msgid "Strategy"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:114
+msgid "Beaker"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:115
+msgid "Caution"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:116
+msgid "Recycle"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:117
+msgid "Anchor"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:118
+msgid "Profile Male"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:119
+msgid "Profile Female"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:120
+msgid "Biker"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:121
+msgid "Wine"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:122
+msgid "Hot Air Balloon"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:123
+msgid "Globe"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:124
+msgid "Genius"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:125
+msgid "Map Pin"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:126
+msgid "Dial"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:127
+msgid "Chat"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:128
+msgid "Heart"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:129
+msgid "Cloud"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:130
+msgid "Upload"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:131
+msgid "Download"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:132
+msgid "Target"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:133
+msgid "Hazardous"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:134
+msgid "Piechart"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:135
+msgid "Speedometer"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:136
+msgid "Global"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:137
+msgid "Compass"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:138
+msgid "Lifesaver"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:139
+msgid "Clock"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:140
+msgid "Aperture"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:141
+msgid "Quote"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:142
+msgid "Scope"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:143
+msgid "Alarm Clock"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:144
+msgid "Refresh"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:145
+msgid "Happy"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:146
+msgid "Sad"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:147
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:74
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:228
+msgid "Facebook"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:148
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:79
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:234
+msgid "Twitter"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:149
+msgid "Google Plus"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:150
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:164
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:336
+msgid "RSS"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:151
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:104
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:264
+msgid "Tumblr"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:152
+msgid "Linkedin"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/cumulo-extension.php:153
+msgid "Dribble"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/inc/portfolio.php:5
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/inc/portfolio.php:6
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:282
+msgid "Portfolio"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/inc/portfolio.php:30
+msgid "Portfolio Categories"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/inc/portfolio.php:36
+msgid "Portfolio Tags"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/inc/property.php:5
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/inc/property.php:6
+msgid "Property"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/inc/property.php:30
+msgid "Property Categories"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/inc/property.php:36
+msgid "Property Tags"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion-tab.php:15
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion-tab.php:24
+msgid "Accordion Tab"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion-tab.php:32
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:126
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:107
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/feature-box.php:71
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:92
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/pricing-column.php:121
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:87
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:89
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:126
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:36
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/table_data.php:85
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:211
+msgid "Title"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion-tab.php:34
+msgid "Enter accordion section title."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion-tab.php:38
+msgid "Section ID"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion-tab.php:40
+#, php-format
+msgid ""
+"Enter optionally row ID. Make sure it is unique, and it is valid as w3c "
+"specification: %s (Must not have spaces)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion-tab.php:40
+msgid "link"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:58
+msgid "Accordion"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:63
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:136
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:127
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:104
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:121
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/countdown-timer.php:85
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:94
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/dropcap.php:45
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/faq-item.php:42
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/faq.php:46
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/feature-box.php:57
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:166
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:53
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:78
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:87
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-carousel.php:46
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:284
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/posts-carousel.php:61
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/pricing-column.php:105
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:82
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/section-header.php:65
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:115
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:59
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/table_data.php:50
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:144
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:180
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider-item.php:62
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider.php:75
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/woo-carousel.php:31
+msgid "by Theme-Paradise"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:64
+msgid "Collapsible content panels"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:69
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:151
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:146
+msgid "Widget title"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:71
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:153
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:148
+msgid "Enter text used as widget title (Note: located above content element)."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:75
+msgid "Active section"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:77
+msgid ""
+"Enter section number to be active on load or enter \"false\" to collapse all "
+"sections."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:81
+msgid "Allow collapse all sections?"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:83
+msgid "If checked, it is allowed to collapse all sections."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:84
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:91
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:172
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:222
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:377
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:291
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:390
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:144
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:361
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/pricing-column.php:171
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:168
+msgid "Yes"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:88
+msgid "Disable keyboard interactions?"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:90
+msgid ""
+"If checked, disables keyboard arrow interactions (Keys: Left, Up, Right, "
+"Down, Space)."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:96
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:197
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:171
+msgid "Active Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:99
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:204
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:174
+msgid "Leave blank for page default color."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:100
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:110
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:117
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:182
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:193
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:205
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:213
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:220
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:227
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:234
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:241
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:175
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:183
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:190
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:197
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:204
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:211
+msgid "Styles"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:104
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:208
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:313
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:122
+msgid "Icon Position"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:107
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:200
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:308
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:152
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:119
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:266
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:155
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/section-header.php:112
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:206
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:316
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:69
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:125
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider.php:88
+msgid "Right"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:108
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:198
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:307
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:150
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:117
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:265
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:153
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/section-header.php:111
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:205
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:315
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:67
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:124
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider.php:87
+msgid "Left"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:114
+msgid "Spacing between accordions"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:116
+msgid "Put spacing between accordions in pixels, default value is 0."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:126
+msgid "Add section"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:130
+msgid "Section 1"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/accordion.php:131
+msgid "Section 2"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:134
+msgid "Blog List"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:141
+msgid "Blog List Style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:144
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:156
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:171
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:186
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:303
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:318
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:339
+msgid "Theme Default"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:145
+msgid "One Column"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:146
+msgid "Modern"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:147
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:293
+msgid "Masonry"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:153
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:315
+msgid "Masonry Columns"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:157
+msgid "Two Columns"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:158
+msgid "Three Columns"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:159
+msgid "Four Columns"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:168
+msgid "Full Width for Modern Style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:173
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:221
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:376
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:290
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:391
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:143
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:362
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/pricing-column.php:170
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:143
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:169
+msgid "No"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:175
+msgid ""
+"To make full width, you must set container's Row Stretch property as "
+"'Stretch row and content(no paddings)'"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:183
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:336
+msgid "Pagination"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:187
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:341
+msgid "Classic Pagination"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:188
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:342
+msgid "Load on Button Click"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:189
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:343
+msgid "Load on Scroll"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:194
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:368
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/posts-carousel.php:79
+msgid "Categories"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:196
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:370
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/posts-carousel.php:81
+msgid "Separate with comma for multiple categories"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:200
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:374
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/posts-carousel.php:85
+msgid "Tags"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/bloglist.php:202
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:376
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/posts-carousel.php:87
+msgid "Use tag slugs, not tag name. Separate with comma for multiple tags"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:125
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:134
+msgid "Button"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:132
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:229
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:384
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/table_data.php:55
+msgid "Caption"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:139
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:241
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:396
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/feature-box.php:115
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:212
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:348
+msgid "Link"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:145
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:252
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:407
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:223
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:188
+msgid "Link Target"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:148
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:255
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:410
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:226
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:191
+msgid "_self (same window)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:149
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:256
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:411
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:227
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:192
+msgid "_blank (new window)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:154
+msgid "Link Type"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:157
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:178
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:197
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:291
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:323
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:268
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:295
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:423
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:450
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:136
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:160
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:187
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:299
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:333
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/feature-box.php:81
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:102
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:119
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/section-header.php:94
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:179
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider.php:102
+msgid "Default"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:158
+msgid "Fancybox Link"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:159
+msgid "Fancybox Image"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:160
+msgid "Fancybox Video"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:165
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:248
+msgid "Size"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:168
+msgid "Medium"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:169
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:271
+msgid "Small"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:170
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:292
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:300
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:271
+msgid "Large"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:176
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:266
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:421
+msgid "Shape"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:179
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:269
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:424
+msgid "Round"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:180
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:270
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:425
+msgid "Pill"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:183
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:277
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:432
+msgid "Select button shape."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:187
+msgid "Border Width"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:194
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:201
+msgid "Align"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:199
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:151
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:118
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:267
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:154
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/section-header.php:110
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:204
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:68
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider.php:86
+msgid "Center"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:205
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:330
+msgid "Margin"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:214
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:124
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:196
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:133
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:74
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:99
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:238
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:47
+msgid "Icon Type"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:216
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:126
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:161
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:198
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:310
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:135
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:101
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:224
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:127
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/section-header.php:96
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:81
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:240
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:49
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:189
+msgid "None"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:217
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:127
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:199
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:136
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:76
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:102
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:100
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:241
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:50
+msgid "Font Awesome"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:218
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:128
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:200
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:137
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:77
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:103
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:101
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:242
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:51
+msgid "ET-Line"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:219
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:129
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:201
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:138
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:78
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:104
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:105
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:243
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:52
+msgid "Linecons"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:220
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:130
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:202
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:139
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:244
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:53
+msgid "Custom Image"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:223
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:133
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:205
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:142
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:81
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:108
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:109
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:247
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:56
+msgid "Select icon library."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:224
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:228
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:240
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:244
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:257
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:261
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:274
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:285
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:301
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:317
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:134
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:138
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:150
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:154
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:167
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:171
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:184
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:195
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:205
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:215
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:206
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:210
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:222
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:226
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:239
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:243
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:256
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:267
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:279
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:293
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:304
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:315
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:326
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:336
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:143
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:147
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:159
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:163
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:176
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:180
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:193
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:204
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:219
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:82
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:86
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:98
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:102
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:115
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:119
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:132
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:109
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:113
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:125
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:129
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:142
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:146
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:159
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:90
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:113
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:130
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:146
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:162
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:178
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:193
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:252
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:268
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:285
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:57
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:61
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:73
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:77
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:90
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:94
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:107
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:118
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:134
+msgid "Icon"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:239
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:149
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:221
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:158
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:97
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:124
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:263
+msgid "Select icon from FontAwesome icons."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:256
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:166
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:238
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:175
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:114
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:141
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:280
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:89
+msgid "Select icon from ET-Line icons."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:273
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:183
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:255
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:192
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:131
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:158
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:297
+msgid "Select icon from Linecons icons."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:278
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:188
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:260
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:197
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/feature-box.php:92
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:119
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:120
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:144
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:302
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:111
+msgid "Image"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:284
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:194
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:266
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:203
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:308
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:117
+msgid "Select image."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:289
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:297
+msgid "Icon Size"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:293
+msgid "Larger"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:294
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:301
+msgid "X-Large"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:305
+msgid "Icon Alignment"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:309
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:317
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:126
+msgid "Top"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:310
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:318
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:127
+msgid "Bottom"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:321
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:293
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:448
+msgid "Color Style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:324
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:296
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:451
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:188
+msgid "Transparent"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:327
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:336
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:344
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:351
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:358
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:365
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:372
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:343
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:351
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:358
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:365
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:372
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:383
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:393
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:227
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:234
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:241
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:248
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/dropcap.php:63
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/dropcap.php:72
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/dropcap.php:81
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:142
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:151
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:168
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:181
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:190
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/pricing-column.php:182
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:139
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:147
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:159
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:170
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/section-header.php:123
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:359
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider.php:140
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider.php:147
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider.php:154
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider.php:165
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider.php:176
+msgid "Colors"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:328
+msgid "This will be overwritten by the following color options."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:335
+msgid "Color for text and icon. Clear to use theme's default color."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/button.php:343
+msgid "Color for border. Clear to use theme's default color."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:102
+msgid "Callout"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:109
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:329
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/table_data.php:92
+msgid "Text"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:111
+msgid "This is a callout. Feel free to put any text here."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:199
+msgid "Image Width (px)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:209
+msgid "Image Height (px)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:219
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:374
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/countdown-timer.php:98
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:104
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider.php:119
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider.php:129
+msgid "Show"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:225
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:237
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:248
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:262
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:278
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:289
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:299
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:310
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:322
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:333
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:344
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:355
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:366
+msgid "Button 1"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:282
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:437
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:212
+msgid "Border Width (px)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:380
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:392
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:403
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:417
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:433
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:444
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:454
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:469
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:476
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:487
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:498
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:509
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/callout.php:520
+msgid "Button 2 "
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:119
+msgid "Content Box"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:133
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/feature-box.php:78
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:99
+msgid "Title Tag"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:137
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/feature-box.php:82
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:103
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/section-header.php:81
+msgid "H1"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:138
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/feature-box.php:83
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:104
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/section-header.php:82
+msgid "H2"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:139
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/feature-box.php:84
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:105
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/section-header.php:83
+msgid "H3"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:140
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/feature-box.php:85
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:106
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/section-header.php:84
+msgid "H4"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:141
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/feature-box.php:86
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:107
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/section-header.php:85
+msgid "H5"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:142
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/feature-box.php:87
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:108
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/section-header.php:86
+msgid "H6"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:147
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:114
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:150
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider.php:84
+msgid "Text Alignment"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:157
+msgid "Box Padding"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:162
+msgid "Wide"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:167
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/dropcap.php:50
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/feature-box.php:103
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:93
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:113
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:139
+msgid "Content"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:169
+msgid "Hey! This is content text. Feel free to put any text here."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:173
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/feature-box.php:109
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/pricing-column.php:155
+msgid "Button Caption"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:179
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/pricing-column.php:161
+msgid "Button Link"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:185
+msgid "Button Style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:192
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:73
+msgid "CSS Animation"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:271
+msgid "Icon Style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:274
+msgid "Inline with title"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:275
+msgid "Block"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:276
+msgid "On Side"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:278
+msgid "Inline works only with left or right text alignment option."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:283
+msgid "Icon Separator"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:308
+msgid "Icon Border"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:311
+msgid "Thin"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:312
+msgid "Thick"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:334
+msgid "Diamond"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:344
+msgid "Leave blank for transparent background."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/content-box.php:394
+msgid "Switch hover transition effect."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/countdown-timer.php:83
+msgid "Countdown Timer"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/countdown-timer.php:90
+msgid "Ending DateTime"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/countdown-timer.php:93
+msgid "Format: YYYY-MM-DD HH:mm:ss. ex: "
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/countdown-timer.php:101
+msgid "MM DD HH mm ss"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/countdown-timer.php:102
+msgid "DD HH mm ss"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/countdown-timer.php:104
+msgid ""
+"Hidding Year, Month or Days is just hiding without extra calculation of "
+"months or days"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/countdown-timer.php:108
+msgid "Size In Pixel"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/countdown-timer.php:114
+msgid "Track Size In Pixel"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/countdown-timer.php:120
+msgid "Margin In Pixel"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/countdown-timer.php:129
+msgid "Leave it empty for theme primary color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/countdown-timer.php:136
+msgid "Leave it empty for theme border color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/countdown-timer.php:143
+msgid "Leave it empty for theme primary background color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/countdown-timer.php:150
+msgid "Leave it empty for theme heading color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/countdown-timer.php:157
+msgid "Leave it empty for theme text color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:92
+msgid "Data Counter"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:100
+msgid "Count"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:124
+msgid "Min Height"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:127
+msgid "Please specify the minimum height in pixels for the data counter box."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:211
+msgid "On Left"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:212
+msgid "On Right"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:213
+msgid "On Top"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/data-counter.php:221
+msgid "Icon Animation"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/dropcap.php:43
+msgid "Dropcap"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/dropcap.php:52
+msgid "This is content text. You can put any text here."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/dropcap.php:58
+msgid "Dropcap Background Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/dropcap.php:62
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:140
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:166
+msgid "Leave empty to use the primary color."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/dropcap.php:67
+msgid "Dropcap Text Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/dropcap.php:71
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/dropcap.php:80
+msgid "Leave empty to use the default color."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/dropcap.php:76
+msgid "Content Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/faq-item.php:32
+msgid "Back To Top"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/faq-item.php:40
+msgid "FAQ Item"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/faq-item.php:48
+msgid "Question"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/faq-item.php:55
+msgid "Answer"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/faq-item.php:57
+msgid "Hey! Here we have a perfect answer for your question."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/faq.php:44
+msgid "FAQ"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/feature-box.php:55
+msgid "Feature Box"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/feature-box.php:62
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:185
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider-item.php:94
+msgid "Style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/feature-box.php:65
+msgid "Style 1"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/feature-box.php:66
+msgid "Style 2"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/feature-box.php:97
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:134
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:133
+msgid "Alt"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:159
+msgid "Google Map"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:165
+msgid "Display Google Maps."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:172
+msgid "Width (in %)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:181
+msgid "Height (in px)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:190
+msgid "Map type"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:193
+msgid "Roadmap"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:193
+msgid "Satellite"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:193
+msgid "Hybrid"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:193
+msgid "Terrain"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:199
+msgid "Latitude"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:203
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:213
+msgid ""
+"<a href=\"http://universimmedia.pagesperso-orange.fr/geo/loc.htm\" target="
+"\"_blank\">Here is a tool</a> where you can find Latitude & Longitude of "
+"your location"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:209
+msgid "Longitude"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:218
+msgid "Map Zoom"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:221
+msgid "18 - Default"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:230
+msgid "Disable map zoom on mouse wheel scroll"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:237
+msgid "Street view control"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:239
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:247
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:255
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:263
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:159
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:154
+msgid "Disable"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:239
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:247
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:255
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:263
+msgid "Enable"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:245
+msgid "Map type control"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:253
+msgid "Map pan control"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:261
+msgid "Zoom control"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:269
+msgid "Zoom control size"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:278
+msgid "Marker/Point icon"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:280
+msgid "Use Google Default"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:280
+msgid "Upload Custom"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:286
+msgid "Upload Image Icon:"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/google-map.php:290
+msgid "Upload the custom image icon."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:51
+msgid "Icon List Item"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:58
+msgid "Item Text"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:65
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:90
+msgid "Line height (px)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:68
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:93
+msgid "Enter line height."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:137
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:163
+msgid "Icon Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:146
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:185
+msgid "Text Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list-item.php:149
+msgid "Leave empty to use the text color."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:76
+msgid "Icon List"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:83
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-carousel.php:57
+msgid "Items"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:86
+msgid ""
+"Put each item in new line. Simple HTML tags such as <strong>,<em> are "
+"allowed."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:105
+msgid "Numbering"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:172
+msgid "Number Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:179
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon-list.php:188
+msgid "Leave empty to use the default text color."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:94
+msgid "Eye catching icons from libraries"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:98
+msgid "Icon library"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:102
+msgid "Open Iconic"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:103
+msgid "Typicons"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:104
+msgid "Entypo"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:126
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:142
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:158
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:174
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:205
+msgid "Select icon from library."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:209
+msgid "Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:211
+msgid "Select icon color."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:215
+msgid "Hover color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:217
+msgid "Select color when the mouse is over the icon."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:221
+msgid "Background shape"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:225
+msgid "Circle"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:226
+msgid "Square"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:227
+msgid "Rounded"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:228
+msgid "Outline Circle"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:229
+msgid "Outline Square"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:230
+msgid "Outline Rounded"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:232
+msgid "Select background shape and style for icon."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:236
+msgid "Background color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:238
+msgid "Select custom icon background color."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:242
+msgid "Hover background color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:244
+msgid "Select hover background color."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:258
+msgid "Icon size."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:262
+msgid "Icon alignment"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:269
+msgid "Select icon alignment."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:273
+msgid "URL (Link)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:275
+msgid "Add link to icon."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:280
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:172
+msgid "Extra class name"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/icon.php:282
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:85
+msgid "Image Box"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:124
+msgid "Image Hover Effect"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:128
+msgid "Grey 40%"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:129
+msgid "Grey 80%"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:140
+msgid "Enable Overlay"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:146
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:161
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:173
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:186
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:197
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:208
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:219
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:233
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:246
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:258
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:248
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:264
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:281
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:298
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:309
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:325
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:331
+msgid "Overlay"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:172
+msgid "Leave blank for transparent overlay."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:185
+msgid "Leave blank for default color."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:190
+msgid "Overlay Title"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:201
+msgid "Overlay Subtitle"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:238
+msgid "Overlay Width"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:245
+msgid "Put width of the overlay panel, example: 90%, 200px."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:250
+msgid "Left Margin"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-box.php:257
+msgid "Put margin of the overlay panel, example: 5%, 10px."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-carousel.php:44
+msgid "Image Carousel"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/image-carousel.php:51
+msgid "Images"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:289
+msgid "Portfolio List Style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:294
+msgid "Masonry - Fit Columns"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:300
+msgid "Grid Columns"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:332
+msgid "Margin between items"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:340
+msgid "No Pagination"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:348
+msgid "Maximum Number of Portfolios"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/portfolio.php:358
+msgid "Show Filter"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/posts-carousel.php:35
+msgid "No posts"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/posts-carousel.php:59
+msgid "Recent Posts Carousel"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/posts-carousel.php:66
+msgid "Total posts"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/posts-carousel.php:73
+msgid "Count visible"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/pricing-column.php:103
+msgid "Pricing Column"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/pricing-column.php:111
+msgid "style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/pricing-column.php:114
+msgid "Style 1 (Colored background)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/pricing-column.php:115
+msgid "Style 2 (Colored border)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/pricing-column.php:117
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/pricing-column.php:131
+msgid "Enter the price, e.g: 39.99, 3 credits."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/pricing-column.php:128
+msgid "Price Text"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/pricing-column.php:136
+msgid "Price Currency"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/pricing-column.php:142
+msgid "Period"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/pricing-column.php:148
+msgid "Features"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/pricing-column.php:151
+msgid ""
+"Put each feature in new line. Simple HTML tags such as <strong>,<em> are "
+"allowed."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/pricing-column.php:167
+msgid "Featured"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/pricing-column.php:183
+msgid "Leave blank to use page's primary color."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:80
+msgid "Progress Bar"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:94
+msgid "Percentage Value"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:101
+msgid "Show percent (%) symbol"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:105
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider.php:120
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider.php:130
+msgid "Hide"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:110
+msgid "Progress Bar Thickness"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:116
+msgid "Value Position"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:120
+msgid "Pull Right"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:125
+msgid "Value Over Bar"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:128
+msgid "Over"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:129
+msgid "Below"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:140
+msgid "Leave blank to use default text color."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:148
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:171
+msgid "Leave blank to use primary color."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:152
+msgid "Gauge Value Background Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:155
+msgid "Not set"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:156
+msgid "Same as bar color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/progress-bar.php:157
+msgid "Custom"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/section-header.php:63
+msgid "Section Header"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/section-header.php:70
+msgid "Heading"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/section-header.php:72
+msgid "Heading here"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/section-header.php:77
+msgid "Heading Tag"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/section-header.php:80
+msgid "Default (H2)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/section-header.php:91
+msgid "Separator Style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/section-header.php:95
+msgid "Weight Lifting"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/section-header.php:101
+msgid "Section Header Text"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/section-header.php:107
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:64
+msgid "Alignment"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/section-header.php:122
+msgid "Leave blank to use theme's default."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:58
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:68
+msgid ""
+"Enter CSS class name of Font Awesome icon font, ex: fa-plus. You can get it "
+"<a href='http://fortawesome.github.io/Font-Awesome/icons/'>here</a>."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:82
+msgid "bounce"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:83
+msgid "flash"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:84
+msgid "pulse"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:85
+msgid "rubberBand"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:86
+msgid "shake"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:87
+msgid "swing"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:88
+msgid "tada"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:89
+msgid "wobble"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:90
+msgid "jello"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:91
+msgid "bounceIn"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:92
+msgid "bounceInDown"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:93
+msgid "bounceInLeft"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:94
+msgid "bounceInRight"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:95
+msgid "bounceInUp"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:96
+msgid "bounceOut"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:97
+msgid "bounceOutDown"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:98
+msgid "bounceOutLeft"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:99
+msgid "bounceOutRight"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:100
+msgid "bounceOutUp"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:101
+msgid "fadeIn"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:102
+msgid "fadeInDown"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:103
+msgid "fadeInDownBig"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:104
+msgid "fadeInLeft"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:105
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:106
+msgid "fadeInRight"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:107
+msgid "fadeInRightBig"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:108
+msgid "fadeInUp"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:109
+msgid "fadeInUpBig"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:110
+msgid "fadeOut"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:111
+msgid "fadeOutDown"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:112
+msgid "fadeOutDownBig"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:113
+msgid "fadeOutLeft"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:114
+msgid "fadeOutLeftBig"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:115
+msgid "fadeOutRight"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:116
+msgid "fadeOutRightBig"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:117
+msgid "fadeOutUp"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:118
+msgid "fadeOutUpBig"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:119
+msgid "flip"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:120
+msgid "flipInX"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:121
+msgid "flipInY"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:122
+msgid "flipOutX"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:123
+msgid "flipOutY"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:124
+msgid "lightSpeedIn"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:125
+msgid "lightSpeedOut"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:126
+msgid "rotateIn"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:127
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:128
+msgid "rotateInDownRight"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:129
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:130
+msgid "rotateInUpRight"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:131
+msgid "rotateOut"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:132
+msgid "rotateOutDownLeft"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:133
+msgid "rotateOutDownRight"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:134
+msgid "rotateOutUpLeft"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:135
+msgid "rotateOutUpRight"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:136
+msgid "slideInUp"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:137
+msgid "slideInDown"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:138
+msgid "slideInLeft"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:139
+msgid "slideInRight"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:140
+msgid "slideOutUp"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:141
+msgid "slideOutDown"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:142
+msgid "slideOutLeft"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:143
+msgid "slideOutRight"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:144
+msgid "zoomIn"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:145
+msgid "zoomInDown"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:146
+msgid "zoomInLeft"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:147
+msgid "zoomInRight"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:148
+msgid "zoomInUp"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:149
+msgid "zoomOut"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:150
+msgid "zoomOutDown"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:151
+msgid "zoomOutLeft"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:152
+msgid "zoomOutRight"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:153
+msgid "zoomOutUp"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:154
+msgid "hinge"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:155
+msgid "rollIn"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:156
+msgid "rollOut"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:158
+msgid ""
+"Select type of animation from if you want this element to be animated when "
+"it enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:174
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:183
+msgid "Grey"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:184
+msgid "Blue"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:185
+msgid "Turquoise"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:186
+msgid "Green"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:187
+msgid "Orange"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:188
+msgid "Red"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/shortcodes.php:189
+msgid "Black"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:113
+msgid "Single Image"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:140
+msgid "Use Lightbox"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:145
+msgid "Youtube/Vimeo Video"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:150
+msgid "Lightbox Image"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:159
+msgid "Lightbox Youtube/Vimeo URL"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:168
+msgid "Lightbox ID"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:174
+msgid "This field is only used when lightbox is used."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:178
+msgid "Open Link"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:207
+msgid "Full Width (Scales up image)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:217
+msgid "Border Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:219
+msgid "This field works only when border width is set."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:223
+msgid "Height"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:226
+msgid "Put in fixed height in pixels or leave blank to use the image height."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/single-image.php:232
+msgid "Overlay Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:57
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:230
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:236
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:242
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:248
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:254
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:260
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:266
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:272
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:278
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:284
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:290
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:296
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:302
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:308
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:314
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:320
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:326
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:332
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:338
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:344
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:350
+msgid "Social Links"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:84
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:240
+msgid "Google+"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:89
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:246
+msgid "Instagram"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:94
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:252
+msgid "Dribbble"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:99
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:258
+msgid "LinkedIn"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:109
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:270
+msgid "Reddit"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:114
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:276
+msgid "Yahoo"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:119
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:282
+msgid "Deviantart"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:124
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:288
+msgid "Vimeo"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:129
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:294
+msgid "Youtube"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:134
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:300
+msgid "Pinterest"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:139
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:306
+msgid "Flickr"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:144
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:312
+msgid "PayPal"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:149
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:318
+msgid "Dropbox"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:154
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:324
+msgid "Soundcloud"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:159
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:330
+msgid "Skype"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/social-links.php:169
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:342
+msgid "Email"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:19
+msgid "Empty tab. Edit page to add content here."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:28
+msgid "Tab"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:38
+msgid "Enter title of tab."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:42
+msgid "Tab ID"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:72
+msgid "Choose from FontAwesome icons."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tab.php:106
+msgid "Choose one from Linecons icons."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/table_data.php:48
+msgid "Table"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/table_data.php:62
+msgid "Title width"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/table_data.php:65
+msgid "Put title field width, example: 30%, 100px"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/table_data.php:69
+msgid "Rows"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/table_data.php:73
+msgid "Title One"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/table_data.php:77
+msgid "Title Two"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/table_data.php:87
+msgid "Enter title here."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/table_data.php:94
+msgid "Enter some text here."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:139
+msgid "Tabs"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:146
+msgid "Tabbed content"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:157
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:152
+msgid "Auto rotate"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:161
+msgid "Auto rotate tabs each X seconds."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:165
+msgid "Content in Grid"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:176
+msgid "Border Style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:180
+msgid "No Border"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:186
+msgid "Active Tab Style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:190
+msgid "Set Background"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:191
+msgid "Set Top Border"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:209
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:179
+msgid "Inactive Header Background Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:212
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:182
+msgid ""
+"Select color for the inactive header background. Leave blank for page "
+"default color."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:217
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:187
+msgid "Active Header Text Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:224
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:194
+msgid "Inactive Header Text Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:231
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:201
+msgid "Content Background Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:238
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:208
+msgid "Content Text Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:251
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:221
+msgid "Tab 1"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/tabs.php:252
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:222
+msgid "Tab 2"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:178
+msgid "Team Member"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:187
+msgid "Style1"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:188
+msgid "Style2"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:189
+msgid "Style3"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:190
+msgid "Style4"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:191
+msgid "Style5 (Bride/Groom)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:192
+msgid "Style6"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:193
+msgid "Style7"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:199
+msgid "Photo"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:204
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider-item.php:74
+msgid "Name"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/team-member.php:218
+msgid "Introduction"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider-item.php:60
+msgid "Testimonial Item"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider-item.php:69
+msgid "Avatar"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider-item.php:81
+msgid "Position"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider-item.php:88
+msgid "Testimonial Text"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider-item.php:96
+msgid "Profile before testimonial"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider-item.php:97
+msgid "Profile after testimonial"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider-item.php:103
+msgid "Name / Position style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider-item.php:105
+msgid "Single line"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider-item.php:106
+msgid "Separate lines"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider.php:73
+msgid "Testimonial Slider"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider.php:94
+msgid "Testimonial Font Size (px)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider.php:100
+msgid "Testimonial Font Style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider.php:103
+msgid "Normal"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider.php:104
+msgid "Italic"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider.php:110
+msgid "Padding (px)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider.php:117
+msgid "Page controls"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/testimonial-slider.php:127
+msgid "Navigation controls"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_column.php:5
+msgid "Fit in the grid."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_column.php:7
+msgid ""
+"Check if the content of this column should stay within the container. This "
+"works only when the parent row is set to 'Stretch row with content' ."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_column.php:8
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_row.php:14
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_row.php:23
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_row.php:35
+msgid "Design Options"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_row.php:5
+msgid "Preset Background Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_row.php:8
+msgid "Theme default"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_row.php:9
+msgid "Primary color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_row.php:10
+msgid "Secondary background color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_row.php:11
+msgid "Dark Background color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_row.php:13
+msgid ""
+"Select preset background color from theme option values. To use this option, "
+"you must clear 'Background Color' option in this tab."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_row.php:19
+msgid "Background Position"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_row.php:22
+msgid "Enter Background Position, e.g. 'center center' or '120px 100px'."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_row.php:28
+msgid "Background Attachment"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_row.php:31
+msgid "Scroll"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_row.php:32
+msgid "Fixed"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_row.php:34
+msgid "Select background attachment."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_separator.php:7
+msgid "Custom Width"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_separator.php:10
+msgid "100%"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_separator.php:11
+msgid "90%"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_separator.php:12
+msgid "80%"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_separator.php:13
+msgid "70%"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_separator.php:14
+msgid "60%"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_separator.php:15
+msgid "50%"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_separator.php:16
+msgid "40%"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_separator.php:17
+msgid "30%"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vc_separator.php:18
+msgid "20%"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:120
+msgid "Previous tab"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:120
+msgid "Next tab"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:134
+msgid "Vertical Tabs"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:141
+msgid "Vertical tabbed content"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:156
+msgid "Auto rotate vtabs each X seconds."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:160
+msgid "Show navigation buttons."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:163
+msgid "Hidden"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:164
+msgid "Visible"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/vertical-tabs.php:166
+msgid "Show previous and next tab buttons."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\plugins\cumulo-extension/shortcodes/woo-carousel.php:29
+msgid "Woo Carousel"
+msgstr ""
