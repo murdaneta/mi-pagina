@@ -1,0 +1,144 @@
+/* Theme Admin */
+.cmo-pagetitle {
+	margin: 30px 0 0;
+}
+.cmo-subtitle {
+	margin: 25px 0 0;
+	font-size: 18px;
+	font-weight: 300;
+}
+.cmo-pagetitle,
+.cmo-subtitle {
+	line-height: 1.2;
+}
+.cmo-admin-section {
+	margin: 20px 20px 0 0;
+}
+.cmo-admin-section .col-one-third {
+	float: left;
+	width: 30%;
+	margin-right: 1.2%;
+}
+.cmo-admin-section .hndle {
+	cursor: initial !important;
+}
+.cmo-admin-section .content {
+	min-height: 315px;
+}
+.cmo-admin-section .content .section {
+	padding: 20px 0;
+	/* border-bottom: 1px solid #ececec; */
+}
+.cmo-admin-section .content .section:first-of-type {
+	padding-top: 10px;
+}
+.cmo-admin-section .progress p {
+	margin: 15px 0;
+}
+.cmo-admin-section .progress p:first-of-type,
+.cmo-admin-section .progress p + p {
+	margin-top: 0;
+}
+.cmo-admin-section .progress p:last-of-type {
+	margin-bottom: 0;
+}
+.cmo-admin-section .button-primary {
+	padding: 6px 15px;
+	margin: 10px 0 30px;
+	height: auto;
+}
+.cmo-admin-section .button-primary.smaller {
+	padding: 0 10px;
+	margin-bottom: 0;
+}
+.cmo-admin-section .note {
+	border: 1px solid #ccebfa;
+	background-color: #e3f8fc;
+	border-radius: 3px;
+	padding: 15px;
+	float: left;
+}
+.cmo-admin-section .note ul {
+	list-style-type: disc;
+	padding-left: 20px;
+}
+.cmo-admin-section .progress {
+	display: none;
+}
+.cmo-admin-section .clear {
+	clear: both;
+}
+.cmo-admin-section input[type=file] {
+	display: block;
+}
+
+@media (max-width: 1080px) {
+	.cmo-admin-section .col-one-third {
+		float: none;
+		width: 100%;
+		margin-right: 0;
+	}
+}
+
+/* Customizer */
+.customize-control {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#customize-controls .description {
+	font-size: 11px;
+}
+#demo {
+	display: block;
+	max-width: 300px;
+	width: 100%;
+	margin-top: 15px;
+}
+
+.customize-control select {
+	width: 100%;
+}
+.customize-control-textarea textarea {
+	height: 160px;
+}
+.customize-control-slider input[type="text"] {
+	float: left;
+	width: 19%;
+	margin-right: 5%;
+	text-align: center;
+}
+.customize-control-slider .cmo-slider {
+	position: relative;
+	float: left;
+	width: 75%;
+	height: 10px;
+	margin-top: 0.65em;
+	background-color: #f5f5f5;
+	cursor: pointer;
+	border-radius: 100em;
+	-webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.165);
+	box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.165);
+}
+.customize-control-slider .cmo-slider .ui-slider-handle {
+	position: absolute;
+	top: -0.545em;
+	z-index: 2;
+	width: 1.6em;
+	height: 1.6em;
+	margin-left: -0.8em;
+	background-color: #fff;
+	border-radius: 100em;
+	-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35);
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35);
+}
+
+/* VC Editor button */
+.composer-switch a {
+	-webkit-border-top-right-radius: 4px;
+	-webkit-border-bottom-right-radius: 4px;
+	-moz-border-radius-topright: 4px;
+	-moz-border-radius-bottomright: 4px;
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+	padding: 4px 15px !important;
+}

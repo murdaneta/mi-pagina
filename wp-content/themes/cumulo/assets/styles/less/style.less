@@ -1,0 +1,501 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Theme Name: Cumulo - Responsive Multi Purpose Wordpress Theme
+Theme URI: http://cumulo.wpengine.com/
+Last Change: 2015-10-30
+Description: <strong>Cumulo is a minimal looking yet feature-rich theme by Theme-Paradise.</strong>
+Version: 1.2.2
+Author: Theme-Paradise
+Author URI: http://themeforest.net/user/theme-paradise?ref=theme-paradise
+
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+[Table of contents]
+1. CSS Reset
+2. Layout
+	2-1. Headers 	/ 	#cmo-header
+		2-1-1. 	Top Bar 	/ 	#header-info-bar
+		2-1-2. 	Navigation 	/	nav
+			2-1-2-1.	Main Nav 	/	div.main-menu 
+			2-1-2-2.	Mobile Nav	/	#mobile-menu-container
+		2-1-3.	Styles 	/	.header-style-1 ( 1 ~ 6 )
+		2-1-4.	Breadcrumbs	/	.cmo-page-title
+	2-2. Page Layout 	/	#main-container
+		2-2-1.	Main Bar 	/ 	section.cmo-mainbar
+		2-2-2.	Sidebar		/	aside.cmo-sidebar
+	2-3. Footers	/ #cmo-footer
+		2-3-1.	Copyright	/ #footer-copyright-bar
+		2-3-2. 	Styles 		/ .footer-style-1 ( 1 ~ 4 )
+	2-4. Blog Lists 
+		2-4-1.	Blog List One-Column	/	div.blog-list-style-onecolumn
+		2-4-2.	Blog List Modern 		/	div.blog-list-style-modern
+		2-4-3.	Blog List Masonry		/	div.blog-list-style-masonry/	
+	2-5. Blog Detail	/	article.post
+		2-5-1.	Featured	/	.cmo-article-featured-wrapper
+		2-5-2.	Content 	/	.cmo-article-contents
+		2-5-3.	Author		/	.cmo-article-author
+		2-5-4.	Comments	/	section#comments.comments-area
+		2-5-5.	Respond		/	#respond.comment-respond
+	2-6. Portfolio
+		2-6-1.	Portfolio Grid List 	/	div.cmo-portfolio-grid-list-wrapper
+		2-6-2.	Portfolio Masonry		/	div.cmo-portfolio-masonry-wrapper
+		2-6-3.	Portfolio Masonry Fit Columns	/	div.cmo-portfolio-masonry-wrapper
+		2-6-4.	Categories	/	.cmo-portfolio-categories-wrapper
+		2-6-5.	Items		/	.cmo-portfolio-items-wrapper
+		2-6-6.	Pagination	/	.cmo-portfolio-pagination-wrapper
+		2-6-7.	Portfolio Detail / article.cmo_portfolio
+			2-6-7-1.	Image 	/	.cmo-portfolio-image-wrapper
+			2-6-7-2.	Content /	.cmo-portfolio-detail-wrapper
+			2-6-7-3.	Similar	/	.cmo-portfolio-similar
+	2-7. Shortcodes ( Styles for few shortcodes )
+	2-8. Woocommerce ( Override default woocommerce styles )
+	2-9. Widgets ( Styles for default Wordpress Widgets )
+	2-10. MISC  ( Miscellaneous )
+		2-10-1.	404 Page 	/	.page-404
+		2-10-2.	Styles for Contact Forms 7
+	2-11. BBPress
+	2-12. BuddyPress
+3. Shortcodes
+	3-1. Visual Composer Row 	/	.vc_row
+	3-2. Visual Composer Separator	/	.vc_separator
+	3-3. Accordion		/	.cmo_accordion
+	3-4. Button			/	.cmo-button ( .small, .large, .shape-round, .shape-pill )
+	3-5. Callout		/	.cmo-callout
+	3-6. Content-Box	/	.cmo-content-box
+	3-7. Data-Counter	/	.cmo-data-counter
+	3-8. Icon 			/	.cmo-icon
+	3-9. Icon List 		/	.cmo-icon-list
+	3-10. Image Box 		/	.cmo-image-box
+	3-11. Image Carousel	/	.cmo-image-carousel
+	3-12. Pricing-Column	/	.cmo-pricing-column
+	3-13. Progress Bar 		/	.cmo-progress-bar
+	3-14. Section Header	/	.cmo-section-header
+	3-15. Single Image 		/	.cmo-single-image
+	3-16. Social Links 		/	.cmo-social-links
+	3-17. Table 			/	.cmo-table
+	3-18. Tabs 				/	.cmo-tabs
+	3-19. Texts 			/	.vc_message_box
+		3-19-1.	Dropcap		/	.cmo-dropcap
+	3-20. Team Members 		/	.cmo-team-members
+	3-21. Testimonial Slider	/	.cmo-testimonial-slider, 
+		3-21-1.	Item 	.cmo-testimonial-item
+	3-22. FAQ				/	.cmo-faq
+	3-23. Count Down Timer	/	.cmo-timer-wrapper
+	3-24. Woo Carousel		/	.cmosc-woo-carousel
+4. Media Queries ( All Responsive Styles belong here )
+-------------------------------------------------------------------*/
+@import "mixin.less";
+@import "reset.less";
+@import "layout/layout.less";
+@import "shortcodes/shortcodes.less";
+@import "layout/media.less";
+
+* {
+	-webkit-font-smoothing: antialiased;
+}
+
+body {
+	width: 100%;
+	overflow-x: hidden;
+	word-break: break-word;
+
+	line-height: @text-line-height;
+
+	&:extend( .doption-text-color, .doption-text-font, .doption-text-font-size, .doption-text-font-weight );
+}
+
+a {
+	text-decoration: none;
+	.lh-transition( color 0.4s );
+	
+	&:extend( .doption-primary-color );
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+	margin-top: 10px;
+	margin-bottom: 20px;
+	line-height: 1.5;
+
+	&:extend( .doption-heading-color, .doption-heading-font, .doption-heading-font-weight );
+	
+	a {
+		&:extend( .doption-heading-color );
+		&:hover {
+			&:extend( .doption-primary-color );
+		}
+	}
+}
+
+h1, .h1 {
+	font-size: @h1-font-size;
+}
+h2, .h2 {
+	font-size: @h2-font-size;
+}
+h3, .h3 {
+	font-size: @h3-font-size;
+}
+h4, .h4 {
+	font-size: @h4-font-size;
+}
+h5, .h5 {
+	font-size: @h5-font-size;
+}
+h6, .h6 {
+	font-size: @h6-font-size;
+}
+
+// Alignment
+.text-left           { text-align: left; }
+.text-right          { text-align: right; }
+.text-center         { text-align: center; }
+.text-justify        { text-align: justify; }
+
+hr {
+	border: 0;
+	border-top: 1px solid;
+	&:extend( .doption-border-color );
+	
+	margin: 0;
+}
+
+p {
+	margin: 0 0 20px;
+	
+	&:last-child {
+		margin-bottom: 0;
+	}
+}
+
+input[type=text],
+input[type=search],
+input[type=email],
+input[type=url],
+input[type=number],
+input[type=tel],
+input[type=password],
+textarea {
+	border: 1px solid;
+	&:extend( .doption-border-color, .doption-text-color );
+	
+	padding: 10px 15px;
+	
+	.lh-border-radius( 3px );
+	.lh-appearance( none );
+	.lh-box-sizing( border-box );
+}
+
+select {
+	border: 1px solid;
+	&:extend( .doption-border-color, .doption-text-color );
+	padding: 10px 15px;
+	.lh-border-radius( 3px );
+	.lh-box-sizing( border-box );
+}
+
+input[type=reset],
+input[type=submit],
+button {
+	.cmo-button() ;
+	cursor: pointer;
+}
+
+a, input, button {
+	.lh-appearance( none );
+	outline: 0;
+}
+
+/* default html tags */
+cite, em, var {
+	font-style: italic;
+}
+
+table {
+	width: 100%;
+	thead {
+		font-weight: bold;
+	}
+
+	tr {
+		border-bottom: 1px solid;
+		&:extend( .doption-border-color );
+	}
+
+	th, td {
+		padding: 5px;
+		text-align: left;
+	}
+}
+
+dl {
+	margin: 0 20px;
+}
+
+dt {
+	font-weight: bold;
+	&:extend( .doption-heading-color );
+}
+
+dd {
+	margin-bottom: 20px;
+	font-size: 0.9em;
+}
+
+#main-container {
+	ul, ol {
+		display: block;
+		padding-left: 40px;
+		
+		& > li {
+			display: list-item;
+		}
+	}
+	
+	ul > li {
+		list-style: circle;
+	}
+	
+	ol > li {
+		list-style: decimal; 
+	}
+}
+
+address {
+	margin: 0 0 20px;
+	font-style: italic;
+}
+
+abbr {
+	border-bottom: 2px dotted;
+	&:extend( .doption-border-color );
+}
+
+big {
+	font-size: larger;
+}
+
+code {
+	font-family: "Monaco", "Lucida", monospace, sans-serif;
+	/* mac default font, windows default font or other */
+	
+	font-size: 0.9em;
+	padding: 2px 4px;
+	color: #c7254e;
+	background-color: #f9f2f4;
+	border-radius: 4px;
+}
+
+// Teletype
+tt {
+	font-family: "Monaco", "Lucida", monospace, sans-serif;
+	font-size: 0.9em;
+}
+
+// Keyboard
+kbd {
+	font-family: "Monaco", "Lucida", monospace, sans-serif;
+	font-size: 0.9em;
+	
+	padding: 2px 4px;
+	color: #fff;
+	background-color: #333;
+	
+	.lh-border-radius( 3px );
+	.lh-box-shadow ( inset 0 -1px 0 fade(@black, 25% ) ); 
+}
+
+pre {
+	padding: 15px;
+	
+	font-family: "Monaco", "Lucida", monospace, sans-serif;
+	font-size: 0.9em;
+	
+	word-wrap: break-word;
+	border: 1px solid #f0f0f0;
+	background-color: #f9f9f9;
+	border-radius: 4px;
+	
+	margin-bottom: 20px;
+	
+}
+
+b, strong {
+	font-weight: bold;
+}
+
+sub, sup {
+	font-size: 0.75em;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+}
+
+sub {
+	bottom: -0.25em;
+}
+sup {
+	top: -0.5em;
+}
+/* end of default html tags */
+
+.sr-only {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	padding: 0;
+	margin: -1px;
+	overflow: hidden;
+	clip: rect(0,0,0,0);
+	border: 0;
+}
+
+.hidden {
+	display: none;
+}
+
+.visible {
+	visibility: visible;
+}
+
+.not-visible {
+	visibility: hidden;
+}
+
+.fullwidth {
+	display: block;
+	width: 100%;
+}
+
+.hairline {
+	font-weight: 100;
+}
+.light {
+	font-weight: 300;
+}
+.normal {
+	font-weight: 400;
+}
+.bold {
+	font-weight: 700;
+}
+.extrabold {
+	font-weight: 800;
+}
+.black {
+	font-weight: 900;
+}
+.uppercase {
+	text-transform: uppercase;
+}
+
+.textshadow {
+	text-shadow: 3px 3px #000;
+}
+
+.clearfix {
+	.clearfix();
+}
+
+.pull-left {
+	display: block;
+	float: left;
+}
+
+.pull-right {
+	display: block;
+	float: right;
+}
+
+/* wordpress default classes */
+.alignleft {
+	display: block;
+	float: left;
+	
+	margin-right: 15px;
+}
+.aligncenter {
+	clear: both;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0;
+}
+.alignright {
+	display: block;
+	float: right;
+	
+	margin-left: 15px;
+}
+.alignnone {
+	max-width: 100%;
+}
+.wp-caption-text {
+	text-align: center;
+	padding-top: 10px;
+	
+	font-size: 0.9em;
+	font-weight: bold;
+	font-style: italic;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+.wp-caption {
+	text-align: center;
+	max-width: 100%;
+}
+
+.wp-caption.alignnone {
+	margin:10px 0;
+}
+
+.wp-caption.aligncenter {
+	margin:10px auto;
+}
+
+.wp-caption img {
+	display: inline-block !important;
+}
+
+.sticky {
+}
+
+.gallery-caption {
+}
+
+.bypostauthor {
+}
+
+.et-line {
+//	text-align: center;
+}
+
+.tparrows.preview2:after {
+	margin-top: -22px;
+}
+
+.notransition {
+	-webkit-transition: none !important;
+	-moz-transition: none !important;
+	-o-transition: none !important;
+	-ms-transition: none !important;
+	transition: none !important;
+}
+
+// Only For Development 
+// @import "dynamic2.less";
+
+.vc_column_container {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.vc_column_container > .vc_column-inner {
+	padding-left: 0px;
+	padding-right: 0px;
+}

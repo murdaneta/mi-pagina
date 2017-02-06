@@ -1,0 +1,279 @@
+/*------------------------------------------------------------------
+[Responsive Styles]
+
+Project: Cumulo
+Version: 1.0
+Last Change: 2015-07-30
+Primary Use: Responsiveness for desktop, tablet and phone
+-------------------------------------------------------------------*/
+
+@media ( min-width: @screen-md-min ) {
+	#mobile-menu-container {
+		display: none !important;
+	}
+}
+
+body.responsive {
+	@media ( max-width: @screen-md-max ) {
+		header#cmo-header {
+			nav {
+				div.main-menu {
+					ul.menu {
+						&>li.menu-item {
+							
+						}
+					}
+				}
+			}
+		}
+	}
+
+	/* Tablet 991 */
+	@media ( max-width: @screen-sm-max ) {
+		header#cmo-header {
+			nav {
+				height: 92px;
+				overflow: hidden;
+
+				div.mobile-nav {
+					display: inline-block;
+					width: 20%;
+					float: left;
+				}
+
+				div#logo-header {
+					width: 60%;
+					margin-left: auto;
+					margin-right: auto;
+					text-align: center;
+				}
+
+				div#nav-link-search {
+					display: none !important;
+				}
+
+				a#nav-link-cart {
+					display: none !important;
+				}
+			}
+		} /* end of header */
+
+		footer#cmo-footer {
+			&.footer-style-1 {
+				#footer-copyright-bar {
+					nav#footer-nav {
+						float: none;
+						display: block;
+
+						.clearfix();
+
+						#footer-menu-wrapper {
+							text-align: center;
+							height: 63px;
+
+							ul.menu {
+								display: inline-block;
+
+								&>li:last-of-type {
+									margin-right: 0;
+								}
+							}
+
+						}
+					}
+
+					#footer-copyright-text {
+						float: none;
+						display: block;
+						text-align: center;
+					}
+				}
+			}
+
+			&.footer-style-2 {
+				#footer-copyright-bar {
+					nav#footer-nav {
+						float: none;
+						display: block;
+
+						.clearfix();
+
+						#footer-menu-wrapper {
+							text-align: center;
+							height: 63px;
+
+							ul.menu {
+								display: inline-block;
+
+								&>li:last-of-type {
+									margin-right: 0;
+								}
+							}
+
+						}
+					}
+
+					#footer-copyright-text {
+						float: none;
+						display: block;
+						text-align: center;
+					}
+				}
+			}
+
+			&.footer-style-4 {
+				.cmosc-contact-info {
+					border-right: 0;
+					display: block;
+					margin-bottom: 10px;
+
+					.cmosc-contact-info-separator {
+						&:before {
+							content: '\A';
+						}
+					}
+
+					i + div {
+						vertical-align: top;
+					}
+				}
+
+				#footer-copyright-bar {
+					nav#footer-nav {
+						float: none;
+						display: block;
+
+						.clearfix();
+
+						#footer-menu-wrapper {
+							text-align: center;
+							height: 63px;
+
+							ul.menu {
+								display: inline-block;
+
+								&>li:last-of-type {
+									margin-right: 0;
+								}
+							}
+
+						}
+					}
+
+					#footer-copyright-text {
+						float: none;
+						display: block;
+						text-align: center;
+					}
+				}
+			}
+		} /* end of footer */
+
+		.blog-list-style-masonry .blog-list-isotope-container.masonry-4-columns article.type-post,
+		.blog-list-style-masonry .blog-list-isotope-container.masonry-4-columns article.cmo-post-in-list {
+			.lh-calc( width, ~'33.33% - 20px' );
+		}
+
+		.with-sidebar {
+			.cmo-mainbar {
+				float: none;
+				width: 100%;
+				
+				padding-right: 0;
+				padding-left: 0;
+			}
+
+			.cmo-sidebar {
+				float: none;
+				width: 100%;
+				
+				padding-right: 0;
+				padding-left: 0;
+				
+				margin-top: 20px;
+			}
+		}
+
+		.blog-list-style-modern {
+			article.type-post,
+			article.cmo-post-in-list {
+				&:nth-child( odd ) {
+					&>.cmo-article-featured-wrapper {
+						float: none;
+						width: 100%;
+
+						&>.cmo-article-stretcher {
+							position: absolute;
+							width: 100%;
+							left: 0; right: 0;
+
+						}
+					}
+
+					&>.cmo-article-contents {
+						width: 100%;
+						float: none;
+					}
+				}
+				&:nth-child( even ) {
+					&>.cmo-article-featured-wrapper {
+						float: none;
+						width: 100%;
+
+						&>.cmo-article-stretcher {
+							position: absolute;
+							width: 100%;
+							left: 0; right: 0;
+						}
+					}
+
+					&>.cmo-article-contents {
+						width: 100%;
+						float: none;
+					}
+				}
+			}
+		}
+	}
+
+	/* Mobile 767 */
+	@media ( max-width: @screen-xs-max ) {
+		.blog-list-style-masonry .blog-list-isotope-container.masonry-3-columns article.type-post,
+		.blog-list-style-masonry .blog-list-isotope-container.masonry-4-columns article.type-post,
+		.blog-list-style-masonry .blog-list-isotope-container.masonry-3-columns article.cmo-post-in-list,
+		.blog-list-style-masonry .blog-list-isotope-container.masonry-4-columns article.cmo-post-in-list {
+			.lh-calc( width, ~'50% - 15px' );
+		}
+		
+		header.header-style-3 #header-info-bar .info-email,
+		header.header-style-3 #header-info-bar .info-phone {
+			display: none;
+		}
+	}
+
+	@media ( max-width: 479px ) {
+		.blog-list-style-masonry .blog-list-isotope-container.masonry-2-columns article.type-post,
+		.blog-list-style-masonry .blog-list-isotope-container.masonry-3-columns article.type-post,
+		.blog-list-style-masonry .blog-list-isotope-container.masonry-4-columns article.type-post,
+		.blog-list-style-masonry .blog-list-isotope-container.masonry-2-columns article.cmo-post-in-list,
+		.blog-list-style-masonry .blog-list-isotope-container.masonry-3-columns article.cmo-post-in-list,
+		.blog-list-style-masonry .blog-list-isotope-container.masonry-4-columns article.cmo-post-in-list {
+			width: 100%;
+		}
+
+        .cmo_vtabs .cmo_wrapper {
+          .cmo_tabs_nav {
+            width: 100%;
+            float: none;
+            margin-left: 0;
+          }
+
+          .cmo_tab {
+            width: 100%;
+            float: none;
+            margin-left: 0;
+          }
+        }
+
+	}
+}

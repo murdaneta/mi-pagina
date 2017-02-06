@@ -1,0 +1,63 @@
+/*
+Theme Name: Cumulo
+Author: the Theme-Paradise team
+Description: Responsive Multi-purpose Wordpress Theme.
+Theme URI: http://themeforest.net/item/cumulo-child-responsive-multi-purpose-wordpress-theme/12223577?ref=Theme-Paradise
+Author URI: http://themeforest.net/user/Theme-Paradise
+Version: 1.2.4
+License: Themeforest Split License
+License URI: -
+Tags: black, blue, white, dark, light, responsive-layout, one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, editor-style, featured-image-header, featured-images, flexible-header, front-page-post-form, full-width-template, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+Text Domain: cumulo
+*/
+
+
+.alignleft {
+	display: block;
+	float: left;
+}
+
+.aligncenter {
+	clear: both;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0;
+}
+
+.alignright {
+	display: block;
+	float: right;
+}
+
+.alignnone {
+	max-width: 100%;
+}
+
+.wp-caption-text {
+	text-align: center;
+	padding-top: 10px;
+}
+
+.wp-caption {
+	text-align: center;
+	max-width: 100%;
+}
+
+.wp-caption.alignnone {
+	margin:10px 0;
+}
+
+.wp-caption.aligncenter {
+	margin:10px auto;
+}
+
+.wp-caption img {
+	display: inline-block !important;
+}
+
+.wp-caption-text, 
+.sticky, 
+.gallery-caption, 
+.bypostauthor {
+}

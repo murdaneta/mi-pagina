@@ -1,0 +1,73 @@
+.cmo-dropcap:first-letter {
+  &:extend(.doption-primary-color-as-background);
+  color: @white;
+  display: inline-block;
+  float: left;
+  font-size: 3em;
+  line-height: 60px;
+  font-weight: 700;
+  margin: 0 12px 0px 0;
+  position: relative;
+  text-transform: uppercase;
+  padding: 5px 15px;
+}
+
+blockquote {
+  padding-left: 70px;
+  font-style: italic;
+  font-size: larger;
+  position: relative;
+  &:before {
+    content: '';
+    position: absolute;
+    &:extend(.doption-primary-color-as-background);
+    width: 4px;
+    height: 100%;
+    left: 45px;
+  }
+  &:after {
+    &:extend(.doption-primary-color);
+    content: "\f10e";
+    font-family: fontawesome;
+    font-size: 18px;
+    font-style: normal;
+    position: absolute;
+    left: 20px;
+    top: 0px;
+  }
+}
+
+.vc_message_box {
+
+  border-width: 1px;
+  .vc_message_box-icon {
+    
+    i.fa {
+      margin-top: -10px;
+      margin-left: -10px;
+    }
+  }
+  .vc_message_content {
+    display: inline;
+    font-size: 15px;
+    vertical-align: middle;
+    p {
+      padding-right: 25px;
+    }
+  }
+  .cmo_message_box-close {
+    font-size: 18px;
+    line-height: 1;
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    margin-top: -9px;
+    color: inherit;
+  }
+  &.no-icon {
+    padding-left: 1.2em;
+    .vc_message_box-icon {
+      display: none;
+    }
+  }
+}

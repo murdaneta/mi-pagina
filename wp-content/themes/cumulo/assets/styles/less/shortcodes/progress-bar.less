@@ -1,0 +1,70 @@
+.cmo-progress-bar {
+	@progressbar-height: 3px;
+	margin-right: 10px;
+	.title {
+		font-size: 13px;
+		margin: 0 0 15px;
+	}
+	.meter {
+		height: @progressbar-height;
+        &:extend(.doption-secondary-bg-color);
+      	border: none;
+		margin: 0 0 25px;
+		position: relative;
+		overflow: visible;
+		.lh-border-radius( 25px );
+	}
+	.gauge {
+        &:extend(.doption-primary-color-as-background);
+        .lh-border-radius( 25px );
+        .lh-transition( width 1.5s );
+        text-align: right;
+		width: 0%;
+		height: @progressbar-height;
+		position: relative;
+		display: block;
+		float: left;
+		.value {
+            float: none;
+            position: absolute;
+			right: 0px;
+			top: -32px;
+			z-index: 11;
+            margin-top: 0px;
+            &.background-set:after {
+              position: absolute;
+              content: '';
+              display: block;
+              top: 18px;
+              right: 0px;
+              &:extend(.doption-primary-color-as-border);
+              border-width: 4px 4px;
+              border-style: solid;
+              border-bottom-color: transparent !important;
+              border-left-color: transparent !important;;
+            }
+		}
+	}
+    .value {
+      &:extend(.doption-text-color);
+      font-size: 12px;
+      font-weight: 400;
+      float: right;
+      margin-top: -32px;
+      &.background-set {
+        &:extend(.doption-primary-color-as-background);
+        &:extend(.doption-primary-color-as-border);
+        border-radius: 3px;
+        padding: 0px 3px;
+        color: white;
+      }
+    }
+	&.value-below-bar {
+      .value {
+        margin-top: 5px;
+      }
+      .gauge .value {
+        top: 0px;
+      }
+    }
+}

@@ -1,0 +1,45 @@
+#main-container #bbpress-forums {
+	font-size: 1em;
+	.clearfix();
+	
+	ul {
+		padding-left: 0;
+		
+		&>li {
+			list-style: none;
+		}
+	}
+	
+	li.bbp-body ul.forum, 
+	li.bbp-body ul.topic {
+		padding: 8px;
+	}
+	
+	img.avatar {
+		vertical-align: super;
+	}
+	
+	div.bbp-template-notice p {
+		font-size: 1em;
+	}
+	
+	ul.bbp-lead-topic, 
+	ul.bbp-topics, 
+	ul.bbp-forums, 
+	ul.bbp-replies, 
+	ul.bbp-search-results {
+		font-size: 1em;
+	}
+
+	.bbp-breadcrumb {
+		display: none;
+		
+		& + #subscription-toggle {
+			float: right;
+		}
+	}
+	
+	.bbp-user-section {
+		margin-bottom: 15px;
+	}
+}

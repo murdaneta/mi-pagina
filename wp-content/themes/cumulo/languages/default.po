@@ -1,0 +1,3081 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cumulo\n"
+"POT-Creation-Date: 2015-11-12 21:17-0800\n"
+"PO-Revision-Date: 2015-11-12 21:17-0800\n"
+"Last-Translator: \n"
+"Language-Team: Theme-Paradise <ceo@theme-paradise.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: E:\\Works\\www\\cumulo\\wp-content\\themes\\cumulo\n"
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/404.php:6
+msgid "Sorry this page does not exist"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/404.php:12
+msgid "Here are a few useful links"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/404.php:24
+msgid "Search our site"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/404.php:25
+msgid "Can't you find what you need? Do a search below!"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/archive-listing.php:30
+msgid "Listing not Found"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/archive-listing.php:34
+msgid "Listing not found, expand your search criteria and try again."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/comments.php:28
+msgid "<i class=\"fa fa-long-arrow-left\"></i> Older Comments"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/comments.php:29
+msgid "Newer Comments <i class=\"fa fa-long-arrow-right\"></i>"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/comments.php:57
+msgid "Leave a Comment"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/comments.php:58
+#, php-format
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/comments.php:59
+msgid "Cancel"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/comments.php:91
+msgid "(Edit)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/comments.php:99
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/functions.php:224
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/breadcrumb.php:139
+msgid "Search"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/functions.php:230
+msgid "Author"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/functions.php:248
+msgid "Archive"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/functions.php:252
+msgid "Date"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/functions.php:256
+msgid "Shop"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/functions.php:262
+#, php-format
+msgid "Property in %s"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/functions.php:265
+msgid "Search Result"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/functions.php:273
+msgid "Listing"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/functions.php:362
+msgid "Read More"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/functions.php:713
+msgid "Sale"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/functions.php:726
+msgid "Buy product"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/functions.php:729
+msgid "View products"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/functions.php:733
+msgid "Add to cart"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/functions.php:736
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/functions.php:742
+msgid "Read more"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/functions.php:739
+msgid "Select options"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/single.php:185
+msgid "Author - "
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/single.php:189
+msgid "Admin"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/single.php:198
+msgid "No Description"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/breadcrumb.php:10
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/breadcrumb.php:42
+msgid "Home"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/breadcrumb.php:143
+msgid "404 - Page Not Found"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:333
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/init.php:90
+msgid "Install Required Plugins"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:334
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/init.php:91
+msgid "Install Plugins"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:335
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/init.php:92
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:336
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/init.php:93
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:397
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/init.php:104
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:399
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:3029
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/init.php:105
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2438
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:37
+msgid "Type"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/functions.php:30
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/functions.php:41
+msgid "Hair Line"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/functions.php:31
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/functions.php:42
+msgid "Light"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/functions.php:32
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/functions.php:43
+msgid "Normal"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/functions.php:33
+msgid "Semi Bold"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/functions.php:34
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/functions.php:44
+msgid "Bold"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/functions.php:35
+msgid "Extra Bold"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/functions.php:36
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/functions.php:45
+msgid "Black"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/functions.php:144
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/woocommerce/cart/cart.php:49
+msgid "Remove this item"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/init.php:106
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/init.php:127
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:14
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:15
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:52
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:36
+msgid "Main Navigation Menu"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/init.php:128
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:15
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:16
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:53
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:37
+msgid "Secondary Menu"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/sidebar_generator.php:163
+msgid "Sidebar does not exist."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/sidebar_generator.php:177
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:6
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:6
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:7
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:7
+msgid "Sidebars"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/sidebar_generator.php:184
+#, php-format
+msgid ""
+"Are you sure you want to remove %s?\\nThis will remove any widgets you have "
+"assigned to this sidebar."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/sidebar_generator.php:198
+msgid "Sidebar Generator"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/sidebar_generator.php:200
+msgid ""
+"The sidebar name is for your use only. It will not be visible to any of your "
+"visitors."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/sidebar_generator.php:201
+msgid ""
+"A CSS class is assigned to each of your sidebar, use this styling to "
+"customize the sidebars."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/sidebar_generator.php:205
+msgid "Add Sidebar"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/sidebar_generator.php:210
+msgid "Name"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/sidebar_generator.php:211
+msgid "CSS class"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/sidebar_generator.php:212
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/woocommerce/cart/cart.php:27
+msgid "Remove"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/sidebar_generator.php:225
+msgid "Remove this sidebar"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/sidebar_generator.php:233
+msgid "No Sidebars defined"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/sidebar_generator.php:281
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:963
+msgid "Select Sidebar"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/sidebar_generator.php:282
+msgid "Select sidebar. Choose \"No Sidebar\" for full width."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/sidebar_generator.php:288
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/sidebar_generator.php:304
+msgid "Default"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/sidebar_generator.php:289
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/sidebar_generator.php:305
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:966
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:987
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:253
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:256
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:259
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:262
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:254
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:257
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:260
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:263
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:290
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:293
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:296
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:299
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:274
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:277
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:280
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:283
+msgid "No Sidebar"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/widgets.php:6
+msgid "Main Sidebar"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/widgets.php:14
+msgid "Shop Sidebar"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/widgets.php:24
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/widgets.php:32
+msgid "Footer Widget Area 2"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/widgets.php:40
+msgid "Footer Widget Area 3"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/widgets.php:48
+msgid "Footer Widget Area 4"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-admin.php:8
+msgid "Customizer settings successfully imported."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-admin.php:24
+msgid "Customizer settings successfully reseted to defaults."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-admin.php:34
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-admin.php:35
+msgid "Settings Manager"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-admin.php:44
+msgid "Theme Settings Manager"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-admin.php:45
+msgid "You can manage your customizer settings here."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-admin.php:50
+msgid "Import Settings"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-admin.php:53
+msgid ""
+"Upload your customizer settings file here, and we'll import the options into "
+"this site."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-admin.php:54
+msgid ""
+"Choose a JSON file that was exported in this customizer manager, and then "
+"click \"Upload and Import.\""
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-admin.php:58
+msgid "Upload and Import"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-admin.php:65
+msgid "Export Settings"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-admin.php:68
+msgid ""
+"Click the button below to export your customizer settings to JSON file and "
+"save it on your computer."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-admin.php:69
+msgid ""
+"Once you've saved the downloaded file, you can import it in Import Settings "
+"section later."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-admin.php:72
+msgid "Download Export File"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-admin.php:79
+msgid "Reset Settings"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-admin.php:82
+msgid ""
+"If you click the button below, all customizer settings will be resetted to "
+"default values."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-admin.php:85
+msgid "Reset Customizer Settings"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-admin.php:92
+msgid "Do you really want to import customizer settings from file?"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-admin.php:97
+msgid "Do you really want to reset your customizer settings?"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:37
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:2
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:2
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:3
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:3
+msgid "Header"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:43
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:367
+msgid "Style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:49
+msgid "Show Header"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:56
+msgid "Header Style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:60
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1146
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:24
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:237
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:26
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:238
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:16
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:63
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:274
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:46
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:258
+msgid "Style 1"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:61
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:25
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:27
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:64
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:47
+msgid "Style 2 ( Image Background )"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:62
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1148
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:26
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:239
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:28
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:240
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:18
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:65
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:276
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:48
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:260
+msgid "Style 3"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:63
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1149
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:27
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:240
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:29
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:241
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:19
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:66
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:277
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:49
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:261
+msgid "Style 4"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:64
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:28
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:30
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:67
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:50
+msgid "Style 5"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:65
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:29
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:31
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:68
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:51
+msgid "Style 6"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:71
+msgid "Header Background Image"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:75
+msgid "This option works with header style 2 only."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:81
+msgid "Header Background Repeat"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:85
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:337
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:38
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:92
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:40
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:94
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:77
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:131
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:60
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:114
+msgid "Cover"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:86
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:338
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:906
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:39
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:93
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:180
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:41
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:95
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:181
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:78
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:132
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:218
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:61
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:115
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:201
+msgid "Tile"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:87
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:339
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:907
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:40
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:94
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:181
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:42
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:96
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:182
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:79
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:133
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:219
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:62
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:116
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:202
+msgid "Tile Horizontally"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:88
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:340
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:908
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:41
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:95
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:182
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:43
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:97
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:183
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:80
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:134
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:220
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:63
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:117
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:203
+msgid "Tile Vertically"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:89
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:341
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:909
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:42
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:96
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:183
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:44
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:98
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:184
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:81
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:135
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:221
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:64
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:118
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:204
+msgid "No Repeat"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:97
+msgid "Enable Transparent Header"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:105
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:401
+msgid "Logo"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:111
+msgid "Header Logo"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:118
+msgid "Logo Top Margin"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:126
+msgid "Logo on Transparent Header"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:130
+msgid "Leave it empty for default logo"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:136
+msgid "Information Bar"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:142
+msgid "Show Infomation Bar"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:149
+msgid "Phone NO"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:157
+msgid "Email"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:165
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:423
+msgid "Twitter"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:173
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:431
+msgid "LinkedIn"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:181
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:439
+msgid "Facebook"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:189
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:447
+msgid "Skype"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:197
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:455
+msgid "Google+"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:205
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:463
+msgid "Dribbble"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:213
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:471
+msgid "Pinterest"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:221
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:479
+msgid "Apple"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:229
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:487
+msgid "Instagram"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:237
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:495
+msgid "Youtube"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:245
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:503
+msgid "Vimeo"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:253
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:511
+msgid "RSS"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:262
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:87
+msgid "Menu"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:268
+msgid "Show Menu"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:275
+msgid "Enable Sticky Menu"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:282
+msgid "Show WooCommerce Cart Icon on Header"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:286
+msgid "Cart icon may not be visible in header style 4"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:290
+msgid "Show Search Icon"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:294
+msgid "Search icon may not be visible in header style 4"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:299
+msgid "Breadcrumb"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:305
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:309
+msgid "Breadcrumb is not visible on homepage by default"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:314
+msgid "Breadcrumb Background Image"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:318
+msgid "Check this to use background image for breadcrumb."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:323
+msgid "Select Breadcrumb Background Image"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:327
+msgid "Default Image will be used if not set."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:333
+msgid "Breadcrumb Background Repeat"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:349
+msgid "Enable Breadcrumb Background Overlay"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:353
+msgid "Check this to use background overlay for breadcrumb."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:361
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:7
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:7
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:8
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:8
+msgid "Footer"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:373
+msgid "Footer Style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:386
+msgid "Show Footer"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:393
+msgid "Show Footer Copyright Bar"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:407
+msgid "Footer Logo"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:411
+msgid ""
+"Footer Logo works with shortcode [cmo_footer_logo]. Default is same with "
+"Header Logo"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:416
+msgid "Social Links"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:419
+msgid "Footer Social works with [cmo_footer_social] shortcode"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:520
+msgid "Extra Information"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:523
+msgid ""
+"Phone Numbers, Email, Address will be used in footer style 3, 4 by default, "
+"For use in other places, use shortcode [cmo_contact_info type=\"phone|email|"
+"address\" icon=\"Override Icon\"]Override Information[/cmo_contact_info] in "
+"text widget"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:527
+msgid "Copyright"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:535
+msgid "Phone Numbers"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:539
+msgid "For multiple numbers, separate with | sign"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:543
+msgid "Email Addresses"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:547
+msgid "For multiple email, separate with | sign"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:551
+msgid "Address"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:555
+msgid "For line break, use | sign"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:560
+msgid "Footer Widgets"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:566
+msgid "Select Sidebar for Footer Column 1"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:569
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:578
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:586
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:594
+msgid "None"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:571
+msgid "Following 4 options works with Footer Style 1 and 2"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:575
+msgid "Select Sidebar for Footer Column 2"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:583
+msgid "Select Sidebar for Footer Column 3"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:591
+msgid "Select Sidebar for Footer Column 4"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:603
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:8
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:8
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:9
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:9
+msgid "Colors"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:605
+msgid ""
+"Change overall color settings here. These settings will be applied to all "
+"elements, but specific color settings such as shortcode color options will "
+"have higher priority."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:610
+msgid "Primary Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:618
+msgid "Text Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:625
+msgid "Heading Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:632
+msgid "Primary Background Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:639
+msgid "Secondary Background Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:646
+msgid "Dark Background Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:650
+msgid ""
+"Dark Background Color will be used as overlay or background color on hover"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:654
+msgid "Menu Item Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:661
+msgid "Header Background Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:668
+msgid "Breadcrumb Background Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:676
+msgid "Border Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:684
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:310
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:311
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:347
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:331
+msgid "Enable Alternative Main Navigation Color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:688
+msgid "Enable Alternative Color for Transparent Header"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:693
+msgid "Color for Transparent Header"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:697
+msgid ""
+"Main Navigation Color on Transparent Header. It work with transparent header "
+"enabled"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:707
+msgid "Typography"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:709
+msgid ""
+"Change global font options. If you select google fonts from the list, they "
+"will be automatically loaded from Google Fonts."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:713
+msgid "Heading Font"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:721
+msgid "Heading Font Weight"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:730
+msgid "Sub Heading Font"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:738
+msgid "Sub Heading Font Weight"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:748
+msgid "H1 Tag Font Size"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:755
+msgid "H2 Tag Font Size"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:762
+msgid "H3 Tag Font Size"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:769
+msgid "H4 Tag Font Size"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:776
+msgid "H5 Tag Font Size"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:783
+msgid "H6 Tag Font Size"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:790
+msgid "Text Font"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:798
+msgid "Text Font Weight"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:806
+msgid "Text Font Size"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:814
+msgid "Menu Font"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:822
+msgid "Menu Font Weight"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:833
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:4
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:4
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:5
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:5
+msgid "Layout"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:839
+msgid "Preloader"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:843
+msgid "Enable"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:844
+msgid "Disable"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:851
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:155
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:156
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:193
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:176
+msgid "Content Layout"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:855
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:157
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:158
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:195
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:178
+msgid "Wide"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:856
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:158
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:159
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:196
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:179
+msgid "Boxed"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:863
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:162
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:163
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:200
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:183
+msgid "Boxed Width"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:877
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:166
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:167
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:204
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:187
+msgid "Margin Top Bottom"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:886
+msgid "Background Color in Boxed Layout"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:895
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:175
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:176
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:213
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:196
+msgid "Background Image"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:902
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:178
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:179
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:216
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:199
+msgid "Background Repeat"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:916
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:185
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:186
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:223
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:206
+msgid "Background Position"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:920
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:975
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:996
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:187
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:229
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:188
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:230
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:225
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:266
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:208
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:250
+msgid "Left"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:921
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:188
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:189
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:226
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:209
+msgid "Center"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:922
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:976
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:997
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:189
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:228
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:190
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:229
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:227
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:265
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:210
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:249
+msgid "Right"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:929
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:191
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:192
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:229
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:212
+msgid "Background Attachment"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:933
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:193
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:194
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:231
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:214
+msgid "Scroll"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:934
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:194
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:195
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:232
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:215
+msgid "Fixed"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:944
+msgid "Sidebar"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:946
+msgid ""
+"Select Default sidebar for blogs, portfolios and woocommerce. Sidebar for "
+"page needs be specifically set through page option. Sidebar for each posts "
+"and portfolios can be overriden through post/portfolio options."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:950
+msgid "Sidebar Width"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:959
+msgid "In Percent ( Min: 25%, Max: 50% ). Default is 25%"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:971
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:225
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:226
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:262
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:246
+msgid "Sidebar Position"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:984
+msgid "Select Sidebar for Woocommerce"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:992
+msgid "Woocommerce Sidebar Position"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1007
+msgid "Blog"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1009
+msgid ""
+"Change blog archive page options here. These options will be applied to only "
+"archive pages, not pages built with shortcodes."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1013
+msgid "Default Blog List Style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1017
+msgid "One Column"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1018
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1077
+msgid "Masonry"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1019
+msgid "Modern"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1025
+msgid "Masonry Columns"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1029
+msgid "2 Columns"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1030
+msgid "3 Columns"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1031
+msgid "4 Columns"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1034
+msgid "This option will work only with masonry blog list style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1039
+msgid "Full width for modern style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1043
+msgid "This option will work only with modern blog list style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1049
+msgid "Default Blog List Pagination"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1053
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1133
+msgid "Classic"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1054
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1134
+msgid "Load More Button"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1055
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1135
+msgid "Load On Scroll"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1065
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:84
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:2
+msgid "Portfolio"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1067
+msgid ""
+"Change portfolio archive/category page options here. These options will be "
+"applied to only archive pages, not pages built with shortcodes."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1072
+msgid "Default Portfolio List Style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1076
+msgid "Grid"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1084
+msgid "Full Width"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1088
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:19
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:47
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:52
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:57
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:62
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:67
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:72
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:77
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:83
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:100
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:202
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:244
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:249
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:313
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:21
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:49
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:54
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:59
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:64
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:69
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:74
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:79
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:85
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:102
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:203
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:245
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:250
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:314
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:44
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:58
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:86
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:91
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:96
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:101
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:106
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:111
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:116
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:122
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:139
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:240
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:281
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:286
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:350
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:41
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:69
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:74
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:79
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:84
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:89
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:94
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:99
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:105
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:122
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:223
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:265
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:270
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:334
+msgid "Yes"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1089
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:20
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:48
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:53
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:58
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:63
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:68
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:73
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:78
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:84
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:101
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:203
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:245
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:250
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:312
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:22
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:50
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:55
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:60
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:65
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:70
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:75
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:80
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:86
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:103
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:204
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:246
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:251
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:313
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:45
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:59
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:87
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:92
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:97
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:102
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:107
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:112
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:117
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:123
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:140
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:241
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:282
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:287
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:349
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:42
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:70
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:75
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:80
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:85
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:90
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:95
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:100
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:106
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:123
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:224
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:266
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:271
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:333
+msgid "No"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1092
+msgid "Sidebar will not work on full page"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1096
+msgid "Columns (Grid Style)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1109
+msgid "Columns (Masonry Style)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1122
+msgid "Margin Between List Items"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1129
+msgid "Default Portfolio List Pagination"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1142
+msgid "Default Portfolio Single Item Style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1147
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:238
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:239
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:17
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:275
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:259
+msgid "Style 2"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1158
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:9
+msgid "Woocommerce"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1160
+msgid "Select Woocommerce Product List Style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1165
+msgid "Default Woocommerce Product List Style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1169
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:326
+msgid "Style - 1"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1170
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:327
+msgid "Style - 2"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1171
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:328
+msgid "Style - 3"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1182
+msgid "Custom Code"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1184
+msgid ""
+"Enter your custom CSS and JS code here. You can use custom codes to quickly "
+"make small changes or put analytics js code. Do not place any <script> or "
+"<style> tags as they're already added."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1188
+msgid "Custom CSS"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer.php:1195
+msgid "Custom JS"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-library/extensions/fonts.php:18
+msgid "Standard Fonts"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-library/extensions/fonts.php:20
+msgid "Google Fonts"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-library/extensions/fonts.php:125
+msgid "All"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-library/extensions/fonts.php:126
+msgid "Cyrillic"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-library/extensions/fonts.php:127
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-library/extensions/fonts.php:128
+msgid "Devanagari"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-library/extensions/fonts.php:129
+msgid "Greek"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-library/extensions/fonts.php:130
+msgid "Greek Extended"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-library/extensions/fonts.php:131
+msgid "Khmer"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-library/extensions/fonts.php:132
+msgid "Latin"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-library/extensions/fonts.php:133
+msgid "Latin Extended"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/customizer/customizer-library/extensions/fonts.php:134
+msgid "Vietnamese"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:6
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:7
+msgid "Demo Import"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:15
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:20
+msgid "Demo Content Importer"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:24
+msgid "Click the button below to load demo content."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:26
+msgid "Import Demo Content"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:29
+msgid "Important Notes"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:31
+msgid "All customizer settings will be overwritten."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:32
+msgid "Please install all required plugins before loading demo content."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:33
+msgid ""
+"It will take a few minutes to download all attachments from demo website."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:53
+msgid "Importing"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:67
+msgid "Errors occurred while importing"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:72
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:121
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:145
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:170
+msgid "Error occurred."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:78
+msgid "Posts"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:81
+msgid "Pages"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:90
+msgid "Contact Forms"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:93
+msgid "Products"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:96
+msgid "Properties"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:99
+msgid "Attachments"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:102
+msgid "Importing Widgets..."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:116
+msgid "Errors occurred while importing widgets:"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:126
+msgid "Importing Customizer Settings..."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:140
+msgid "Errors occurred while importing customizer settings:"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:150
+msgid "Importing Sliders..."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:164
+msgid "Errors occurred while importing sliders:"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-admin.php:166
+msgid ""
+"Import finished. Please do not forget to set main navigation menu and front "
+"page."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-ajax.php:43
+msgid ""
+"Failed to load importer php files. Use WordPress Importer plugin to manually "
+"load demo content xml file."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/demo-importer-ajax.php:119
+msgid "Revolution Slider plugin is not installed or activated."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/widget-importer/widget-importer.php:32
+msgid "Import file could not be found. Please try again."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/widget-importer/widget-importer.php:64
+msgid "Import data could not be read. Please try a different file."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/widget-importer/widget-importer.php:106
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/widget-importer/widget-importer.php:128
+msgid "Site does not support widget"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/widget-importer/widget-importer.php:164
+msgid "Widget already exists"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/widget-importer/widget-importer.php:213
+msgid "Imported"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/widget-importer/widget-importer.php:216
+msgid "Imported to Inactive"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/widget-importer/widget-importer.php:223
+msgid "No Title"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/parsers.php:42
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/parsers.php:72
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/parsers.php:84
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/parsers.php:89
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/parsers.php:279
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:140
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:149
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:200
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:204
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:213
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:184
+msgid "All done."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:184
+msgid "Have fun!"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:185
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:205
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:221
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:246
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:272
+msgid "Assign Authors"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:273
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:275
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:285
+msgid "Import Attachments"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:288
+msgid "Download and import file attachments"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:305
+msgid "Import author:"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:316
+msgid "or create new user with login name:"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:319
+msgid "as a new user:"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:327
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:329
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:330
+msgid "- Select -"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:380
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:431
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:471
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:517
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:658
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:543
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:565
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:624
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:789
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:796
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:870
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:883
+msgid "Invalid file type"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:927
+msgid "Remote server did not respond"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:933
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:940
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:945
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:951
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:1049
+msgid "Import WordPress"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:1056
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:1071
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/demo-importer/wordpress-importer/wordpress-importer.php:1072
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/featured-galleries/components/metabox.php:11
+msgid "Featured Gallery"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/featured-galleries/components/metabox.php:30
+msgid "Select Images"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/featured-galleries/components/metabox.php:38
+msgid "Edit Selection"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/featured-galleries/components/metabox.php:51
+msgid "Remove All"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/megamenu/megamenu.php:127
+msgid "Enable Mega Menu"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/megamenu/megamenu.php:131
+msgid "Disable Caption"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/megamenu/megamenu.php:135
+msgid "Fontawesome Icons"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/megamenu/megamenu.php:140
+msgid "Background on Megamenu ( Bottom Right Corner )"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/metaboxes.php:15
+msgid "Post Options"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/metaboxes.php:18
+msgid "Page Options"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/metaboxes.php:21
+msgid "Portfolio Options"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/metaboxes.php:24
+msgid "Default Options"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/metaboxes.php:232
+msgid "Add Images"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:3
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:3
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:4
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:4
+msgid "Sliders"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:5
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:5
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:6
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:6
+msgid "Content Area"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:13
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:14
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:51
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:35
+msgid "Select Menu"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:16
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:17
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:54
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:38
+msgid "Select Menu Location To Show on header."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:17
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:19
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:56
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:39
+msgid "Show header"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:18
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:23
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:37
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:46
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:51
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:56
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:61
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:66
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:71
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:76
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:82
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:91
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:99
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:156
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:179
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:186
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:192
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:227
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:236
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:243
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:248
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:253
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:256
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:259
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:262
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:311
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:20
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:25
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:39
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:48
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:53
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:58
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:63
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:68
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:73
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:78
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:84
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:93
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:101
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:157
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:180
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:187
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:193
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:228
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:237
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:244
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:249
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:254
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:257
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:260
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:263
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:312
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:325
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:15
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:57
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:62
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:76
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:85
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:90
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:95
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:100
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:105
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:110
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:115
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:121
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:130
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:138
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:194
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:217
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:224
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:230
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:264
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:273
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:280
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:285
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:290
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:293
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:296
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:299
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:348
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:40
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:45
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:59
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:68
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:73
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:78
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:83
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:88
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:93
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:98
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:104
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:113
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:121
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:177
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:200
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:207
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:213
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:248
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:257
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:264
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:269
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:274
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:277
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:280
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:283
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:332
+msgid "Theme Setting"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:21
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:49
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:23
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:51
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:60
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:88
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:43
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:71
+msgid "Choose to show or hide the header."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:22
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:24
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:61
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:44
+msgid "Header style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:30
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:32
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:69
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:52
+msgid "Select header style."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:32
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:34
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:71
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:54
+msgid "Header background image"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:33
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:35
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:72
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:55
+msgid ""
+"Select an image for the header background. This will work only with header "
+"style-2"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:36
+msgid "Header background repeat."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:43
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:45
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:82
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:65
+msgid ""
+"Select header background repeat. This will work only with header style-2"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:45
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:47
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:84
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:67
+msgid "Enable transparent header"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:50
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:52
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:89
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:72
+msgid "Show information bar"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:54
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:56
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:93
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:76
+msgid "Choose to show or hide information bar."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:55
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:57
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:94
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:77
+msgid "Show menu"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:59
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:61
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:98
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:81
+msgid "Choose to show or hide menu."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:60
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:62
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:99
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:82
+msgid "Enable sticky menu"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:64
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:66
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:103
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:86
+msgid "Choose to enable or disable sticky menu."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:65
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:67
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:104
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:87
+msgid "Show woocommerce cart icon"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:69
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:74
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:71
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:76
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:108
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:113
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:91
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:96
+msgid ""
+"Choose to show or hide woocommerce cart icon ( only works when woocommerce "
+"is installed )."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:70
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:72
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:109
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:92
+msgid "Show search icon"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:75
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:77
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:114
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:97
+msgid "Show breadcrumb"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:79
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:81
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:118
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:101
+msgid "Choose to show or hide breadcrumb."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:81
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:83
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:120
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:103
+msgid "Enable breadcrumb image"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:85
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:87
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:124
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:107
+msgid "Choose to enable or disable breadcrumb image."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:87
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:89
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:126
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:109
+msgid "Breadcrumb background image"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:88
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:90
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:127
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:110
+msgid "Select an image for the breadcrumb background."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:90
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:92
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:129
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:112
+msgid "Breadcrumb background repeat"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:97
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:99
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:136
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:119
+msgid "Select breadcrumb background repeat"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:98
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:100
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:137
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:120
+msgid "Enable breadcrumb background overlay"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:102
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:104
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:141
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:124
+msgid "Choose to use background overlay for breadcrumb."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:108
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:109
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:146
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:129
+msgid "Slider Type"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:109
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:110
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:147
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:130
+msgid "No Slider"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:110
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:111
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:148
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:131
+msgid "LayerSlider"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:111
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:112
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:149
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:132
+msgid "Revolution Slider"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:112
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:113
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:150
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:133
+msgid "Custom Slider"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:113
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:114
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:151
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:134
+msgid "Select the type of slider that displays."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:117
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:138
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:118
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:139
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:155
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:176
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:138
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:159
+msgid "Select a slider"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:131
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:132
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:169
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:152
+msgid "LayerSlider #"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:134
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:135
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:172
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:155
+msgid "Select LayerSlider"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:134
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:147
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:135
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:148
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:172
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:185
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:155
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:168
+msgid "Select the unique name of the slider."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:147
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:148
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:185
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:168
+msgid "Select Revolution Slider"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:150
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:151
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:188
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:171
+msgid "Custom Slider Shortcode"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:150
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:151
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:188
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:171
+msgid "Enter custom slider shortcode here."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:163
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:164
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:201
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:184
+msgid "Leave it empty for default. Value between 1200 ~ 1400."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:167
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:208
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:212
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:168
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:209
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:213
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:205
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:246
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:250
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:188
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:229
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:233
+msgid "Leave it empty for default 50px."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:171
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:270
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:172
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:271
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:209
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:307
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:192
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:291
+msgid "Primary color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:201
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:202
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:239
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:222
+msgid "Show Comments"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:204
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:205
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:242
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:225
+msgid "Choose to show or hide comments."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:207
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:208
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:245
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:228
+msgid "Padding Top"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:211
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:212
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:249
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:232
+msgid "Padding Bottom"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:218
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:219
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:255
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:239
+msgid "Sidebar width in percent"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:219
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:220
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:256
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:240
+msgid "Min: 25, Max: 50. Numbers out of the range will be ignored"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:230
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:231
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:267
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:251
+msgid "Select the sidebar position."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:235
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:236
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:272
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:256
+msgid "Footer style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:241
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:242
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:278
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:262
+msgid "Select footer style."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:242
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:243
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:279
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:263
+msgid "Show footer"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:246
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:247
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:283
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:267
+msgid "Choose to show or hide the footer."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:247
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:248
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:284
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:268
+msgid "Show footer copyright bar"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:251
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:252
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:288
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:272
+msgid "Choose to show or hide the footer copyright bar."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:252
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:253
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:289
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:273
+msgid "Select Sidebar for footer column 1"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:254
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:255
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:291
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:275
+msgid ""
+"Select sidebar for footer column 1. This option works with footer style 1 "
+"and 2."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:255
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:256
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:292
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:276
+msgid "Select Sidebar for footer column 2"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:257
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:258
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:294
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:278
+msgid ""
+"Select sidebar for footer column 2. This option works with footer style 1 "
+"and 2."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:258
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:259
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:295
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:279
+msgid "Select Sidebar for footer column 3"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:260
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:261
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:297
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:281
+msgid ""
+"Select sidebar for footer column 3. This option works with footer style 1 "
+"and 2."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:261
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:262
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:298
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:282
+msgid "Select Sidebar for footer column 4"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:263
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:264
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:300
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:284
+msgid ""
+"Select sidebar for footer column 4. This option works with footer style 1 "
+"and 2."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:274
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:275
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:311
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:295
+msgid "Text color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:278
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:279
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:315
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:299
+msgid "Heading color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:282
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:283
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:319
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:303
+msgid "Primary background color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:286
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:287
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:323
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:307
+msgid "Secondary background color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:290
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:291
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:327
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:311
+msgid "Dark background color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:294
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:295
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:331
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:315
+msgid "Menu item color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:299
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:300
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:336
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:320
+msgid "Header background color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:303
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:304
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:340
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:324
+msgid "Breadcrumb background color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:308
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:309
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:345
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:329
+msgid "Border color"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:314
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:315
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:351
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:335
+msgid "Enable Alternative Color for Transparent Header."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/default_options.php:317
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:318
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:354
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:338
+msgid "Alternative Main Navigation Color for Transparent Header"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:38
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:75
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:58
+msgid "Header background repeat"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:324
+msgid "Woocommerce Product List Style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/page_options.php:329
+msgid "Select Woocommerce Product List Style."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:14
+msgid "Portfolio Style"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:20
+msgid "Select style of portfolio page."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:23
+msgid "Masonry Image Size"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:24
+msgid "X * X"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:25
+msgid "X * 2X"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:26
+msgid "2X * X"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:27
+msgid "2X * 2X"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:28
+msgid "Select featured image size in masonry layout."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:31
+msgid "Client"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:31
+msgid "Enter the name of the client personnel or company. Leave empty to hide."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:34
+msgid "Duration"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:34
+msgid "Enter the duration of project. Leave empty to hide."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:37
+msgid "Enter the type of product. Leave empty to hide."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:40
+msgid "Demo Link"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:40
+msgid "Enter the demo link of the project. Leave empty to hide."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:43
+msgid "Show Related Portfolios"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/portfolio_options.php:46
+msgid "Choose to display or hide related portfolios."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:2
+msgid "Post"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:20
+msgid "Audio/Video Source"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:21
+msgid "Embed Code"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:22
+msgid "File"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:23
+msgid "Select audio/video source for audio/video post format."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:25
+msgid "URL of File for Audio/Video"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:26
+msgid ""
+"Select audio/video file from media library or copy and paste url of file "
+"from remote server. Only mp4, flv, m4v, ogv, webm, wmv for videos, mp3, ogg, "
+"wav, wma for audio are allowed."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:30
+msgid "Video / Audio Embed Code"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/framework/inc/metaboxes/views/metaboxes/post_options.php:30
+msgid "Copy and paste your favorite youtube, vimeo or soundcloud embed code."
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/templates/content-pagination.php:22
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/templates/portfolio/portfolio-pagination.php:28
+msgid "Load More"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/woocommerce/cart/cart.php:22
+msgid "Shopping Cart"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/woocommerce/cart/cart.php:28
+msgid "Product"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/woocommerce/cart/cart.php:29
+msgid "Product Name"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/woocommerce/cart/cart.php:30
+msgid "Price"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/woocommerce/cart/cart.php:31
+msgid "Quantity"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/woocommerce/cart/cart.php:32
+msgid "Total"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/woocommerce/cart/cart.php:154
+msgid "Coupon"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/woocommerce/cart/cart.php:154
+msgid "Coupon code"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/woocommerce/cart/cart.php:154
+msgid "Apply Coupon"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/woocommerce/cart/cart.php:160
+msgid "Update Cart"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr ""
+
+#: E:\Works\www\cumulo\wp-content\themes\cumulo/woocommerce/single-product/up-sells.php:43
+msgid "You may also like&hellip;"
+msgstr ""

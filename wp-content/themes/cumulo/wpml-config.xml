@@ -1,0 +1,24 @@
+<wpml-config>
+    <admin-texts>
+        <key name="blogname" />
+        <key name="blogdescription" />
+        <key name="theme_mods_cumulo">
+            <key name="footer-copyright-text" />
+        </key>
+    </admin-texts>   
+    <custom-types>
+        <custom-type translate="1">cmo_portfolio</custom-type>
+        <custom-type translate="1">property</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">portfolio_category</taxonomy>
+        <taxonomy translate="1">portfolio_tags</taxonomy>
+        <taxonomy translate="1">location</taxonomy>
+        <taxonomy translate="1">tax_feature</taxonomy>
+    </taxonomies>
+    <custom-fields>
+        <custom-field action="copy">cmo_*</custom-field>
+        <custom-field action="copy">sbg_selected_sidebar</custom-field>
+        <custom-field action="copy">sbg_selected_sidebar_replacement</custom-field>
+    </custom-fields>
+</wpml-config>

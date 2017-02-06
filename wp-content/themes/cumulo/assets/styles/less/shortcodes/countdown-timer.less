@@ -1,0 +1,50 @@
+.cmo-timer-wrapper {
+	text-align: center;
+	
+	.cmo-timer-el {
+		display: inline-block;
+		margin-right: 30px;
+		margin-bottom: 15px;
+
+		.svg-wrapper {
+			position: relative;
+			svg {
+				display: block;
+
+				circle {
+
+				}
+			}
+
+			&:after {
+				position: absolute;
+				top: 50%;
+				left: 0;
+				right: 0;
+				bottom: 0;
+
+				margin-top: -24px;
+
+				font-size: 48px;
+				line-height: 1;
+
+        		font-weight: 300;
+        		content: attr(data-rel);
+        		
+        		white-space: nowrap;
+			}
+		}
+
+		.cmo-timer-caption {
+			text-align: center;
+			font-size: 18px;
+			font-weight: 300;
+
+			margin-top: 15px;
+		}
+		
+		&:last-of-type {
+			margin-right: 0;
+		}
+	}
+}

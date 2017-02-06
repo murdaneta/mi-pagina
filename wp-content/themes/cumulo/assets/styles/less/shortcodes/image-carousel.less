@@ -1,0 +1,47 @@
+.cmo-image-carousel {
+	position: relative;
+	overflow: hidden;
+	.owl-carousel {
+		z-index: 11;
+	}
+	.item {
+        margin: 10px;
+        opacity: 0.4;
+        .lh-transition( opacity 0.3s ease);
+		img {
+			display: block;
+
+			width: initial !important;
+			width: auto !important;
+
+			max-width: 100%;
+			margin: auto;
+			cursor: pointer;
+			.filter-grayscale;
+			.lh-transition( filter 0.3s );
+		}
+		&:hover {
+            opacity: 1;
+			img {
+				filter: none;
+				-webkit-filter: grayscale(0);
+			}
+		}
+	}
+
+	.carousel-controls {
+		margin-top: 15px;
+		text-align: center;
+		.carousel-control {
+			display: inline-block;
+			margin: 0 18px;
+			font-size: 26px;
+			height: 30px;
+			line-height: 30px;
+			color: rgba(0, 0, 0, 0.5);
+			&:hover {
+                &:extend(.doption-primary-color);
+			}
+		}
+	}
+}

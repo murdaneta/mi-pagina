@@ -1,0 +1,62 @@
+#main-container #buddypress {
+
+	form#whats-new-form textarea {
+		width: 100%;
+	}
+
+	.activity-list li.bbp_topic_create .activity-content .activity-inner, 
+	.activity-list li.bbp_reply_create .activity-content .activity-inner {
+		&:extend( .doption-primary-color-as-border );
+	}
+
+	div.item-list-tabs#subnav {
+		margin-bottom: 30px;
+	}
+	
+	.bp-avatar-nav ul {
+		padding-left: 15px;
+
+		&>li {
+			list-style: none;
+		}
+	}
+	
+	form.standard-form {
+		input[type=email],
+		input[type=password],
+		input[type=text] {
+			width: 300px;
+		}
+	}
+	
+	a.button,
+	input[type=submit] {
+		padding: 8px 12px;
+		font-size: 12px;
+		
+		line-height: 1;
+		
+		border: 1px solid;
+		font-weight: 600;
+		
+		background-clip: border-box !important;
+		vertical-align: middle;
+		display: inline-block;
+		white-space: nowrap;
+    	
+    	.lh-border-radius( 0 );
+    	.cmo-transition( color, background-color, border-color, opacity );
+
+    	&:extend( .doption-primary-color-as-background, .doption-primary-bg-as-color, .doption-primary-color-as-border );
+    	
+    	&:hover {
+    		&:extend( .doption-primary-color, .doption-primary-bg-color );
+    	}
+	}
+	
+	div.item-list-tabs ul li.current a, 
+	div.item-list-tabs ul li.selected a {
+		&:extend( .doption-primary-color-as-background, .doption-primary-bg-as-color );
+		opacity: 1;
+	}
+}

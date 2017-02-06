@@ -1,0 +1,90 @@
+.cmo-testimonial-item {
+  .avatar-wrapper {
+    width: 80px;
+    display: inline-block;
+    img {
+      max-width: 100%;
+      border-radius: 3px;
+    }
+  }
+  .testimonial {
+    font-size: 16px;
+    margin-bottom: 40px;
+  }
+  p:not(.testimonial) {
+    padding: 0;
+    margin: 0px;
+
+  }
+  p.single-line {
+    margin-bottom: 20px;
+
+  }
+  .name {
+    font-size: 16px;
+  }
+  .position {
+    font-size: 11px;
+  }
+  i {
+    font-size: 24px;
+    margin: 0 20px;
+  }
+}
+
+.cmo-testimonial-slider {
+  text-align: center;
+  &.text-left {
+    text-align: left;
+  }
+  &.text-right {
+    text-align: right;
+  }
+
+  .owl-controls .owl-buttons {
+    div {
+      position: absolute;
+      top: 50%;
+      margin-top: -20px;
+      padding: 0px;
+      width: 40px;
+      height: 40px;
+      line-height: 35px;
+      font-size: 30px;
+      color: #bbb;
+      background-color: transparent;
+      border: 1px solid;
+      &.owl-prev {
+        left: 0px;
+        i {
+          margin-left: -3px;
+        }
+      }
+      &.owl-next {
+        right: 0px;
+        i {
+          margin-right: -3px;
+        }
+      }
+    }
+  }
+  &.pagination-hide {
+    .owl-controls .owl-pagination {
+      display: none;
+    }
+  }
+  &.navigation-hide {
+    .owl-controls .owl-buttons {
+      display: none;
+    }
+  }
+}
+
+.owl-theme .owl-controls .owl-pagination {
+  margin-top: 20px;
+  .owl-page span {
+    background-color: #c1c1c1;
+    width: 10px;
+    height: 10px;
+  }
+}

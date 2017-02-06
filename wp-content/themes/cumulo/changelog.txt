@@ -1,0 +1,123 @@
+Version 1.2.4 - 2015-11-12
+[Updated] Rev Slider to : 5.2.2
+[Updated] Visual Composer : 4.11
+[Fixed] Update Column Row for Rev Slider 5.2.2
+
+Version 1.2.3 - 2015-11-12
+[Fixed] Megamenu allow_url_fopen problem fix
+[Updated] Visual Composer 4.8.1
+[Fixed] Skype protocal added for Skype Social Link
+[Added] Pot file added for translation
+[Fixed] Meta Charset Fixed
+
+Version 1.2.2 - 2015-10-30
+[Updated] Visual Composer 4.8.0.1
+[Updated] Revolution Slider 5.1
+[Fixed] Documentation
+[Updated] Demo Contents Repack
+[Fixed] Portfolio Gap bug fix on Firefox ( style scoped difference )
+[Fixed] Coming Soon Timer Month Bug Fix
+
+Version 1.2.1 - 2015-10-09
+[Updated] Demo Contents for Portfolios for Creative 2 Demo and New Menu Items
+
+
+Version 1.2 - 2015-10-09
+[Added] Restaurant Demo
+[Added] Fitness Demo
+[Added] Creative 2 Demo 
+[Updated] Google Map Shortcode Icon
+[Added] Heading Weightlifting Separator
+[Added] Restaurant Menu Item Shortcoded
+[Updated] Cumulo Logo updated
+[Updated] Demo Contents Updated
+
+Version 1.1.5 - 2015-10-05
+[Fixed] Portfolio bug fix
+[Fixed] Post Option show comment bug fix
+[Updated] Visual Composer Updated to 4.7.4
+[Added] Custom Google Map Shortcode Added
+
+Version 1.1.4.1 - 2015-09-25
+[Fixed] Bug fix by removing use of theme defined constant in plugin
+[Fixed] Bug fix for easy-property-listing integration
+
+Version 1.1.4 - 2015-09-24
+[Updated] TGM Plugin Updated to 2.5.2 from 2.4.2
+[Fixed] avoid using array_map function for backward compatibility
+[Updated] Revolution Slider 5.0.9
+[Updated] Visual Composer 4.7.2
+[Fixed] Easy-Property-Listing integration bug fix
+
+Version 1.1.3 - 2015-09-08
+[Updated] Revolution Slider 5.0.6
+[Updated] Layer Slider 5.6.2
+[Updated] Visual Composer 4.7
+[Added] Page/Theme Option for Breadcrumbs Background Color, Background Repeat, Enable/Disable Overlay
+[Added] Page/Theme Option for Header Bg Color, Background Image Repeat 
+[Fix] Header Style 2 Background Image
+[Fix] Icon List Style 
+[Update] Documentation Updated
+
+Version 1.1.2 - 2015-09-04
+[Added] Theme Option for Preloader Enable / Disable
+
+Version 1.1.1 - 2015-09-03
+[Added] New 3 Home Demos
+[Fixed] MetaBox Layer Slider Listing
+[Added] Easy Property Listing Plugin Support for real estate listings.
+[Fixed] Localization Ready
+[Updated] WPML Ready
+[Added] Shortcode Feature Box
+[Updated] Shortcode Progress Bar
+[Updated] Shortcode Team Member (Style only)
+
+Version 1.1 - 2015-08-27
+
+[Updated] Documentation, Description Image, Preview Image has updated
+[Added] Child theme support and theme directory
+[Updated] Layerslider 5.5.1
+[Updated] Visual Composer VC_Row Fixed Background Image
+[Fix] Contact Form Styling Fix
+[Added] [cmo_typing] Text based shortcode added for typing effect
+[Updated] Wordpress 4.3 upgrade/comptabile
+[Removed] Custom favicon functionality removed because 4.3 has site icon by default
+[Updated] Slider Revolution 5.0.4.1
+[Updated] Importing google fonts in a correct way ( http://themeshaper.com/2014/08/13/how-to-add-google-fonts-to-wordpress-themes/ )
+[Updated] Use string 'cumulo' instead of defined value for translators like PoEditor work correctly
+[Updated] Use string 'cumulo_plugin' instead of defined value for same purpose
+[Updated] Moved Cumulo Settings and Demo Importer under Appearance
+[Updated] Renamed Customizer Manager -> Settings Manager
+[Fix] Removed Mega Menu Options from Customizer->Menu editor. Megamenu setting is valid only on Menu Page
+[Added] Scroll To Top
+[Update] Remove really simple twitter feed from TGM plugins installation list and Versions updated for TGM
+[Added] Audio/Video Post Format with local/remote file
+[Added] Audio Post Format with Featured Image 
+[Update] Latest version of MediaElement JS used due to bug from firefox, IE and Edge 
+[Fix] Bug fix for weird animation of standard visual composer parallax effect.
+[Added] Color Palette Thumbnails
+
+Version 1.0.3 - 2015-08-17
+[Added] BuddyPress Compatible
+[Update] Demo URL changed for faster performance (demo.theme-paradise.com/cumulo -> cumulo.wpengine.com)
+[Update] Update header of content-product.php for woocommerce template of latest version 2.4.4
+
+Version 1.0.2 - 2015-08-08
+[Update] Revolution Slider 5.0.1 -> 5.0.2
+[Update] Update Demo Contents for new version of rev slider 
+[Fix] Removed GA code from Demo Contents
+
+Version 1.0.1 - 2015-08-07
+
+[Added] Boxed Layout with Image Background and Width. Theme Option and Page Option for Boxed Layout
+[Added] Favourite Woocommerce Product
+[Added] Megamenu Image Background
+[Fix] Megamenu Select2 Bug Fix
+[Fix] Replaced PHP5.4 specific functionality for backward compatability
+[Update] Revolution Slider 4.6.93 -> 5.0.1
+[Added] BBPress Compatible
+[Fix] Accordion / Tabs colors & borders correction
+[Fix] Minor fixes in demo content
+
+Version 1.0.0 - 2015-08-07
+Initial Release

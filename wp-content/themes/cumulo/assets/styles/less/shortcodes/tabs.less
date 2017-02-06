@@ -1,0 +1,325 @@
+.wpb_content_element .cmo_tabs_nav li {
+  padding: 0;
+  background-image: none;
+  list-style: none !important;
+  .lh-transition( all 0.5s ease );
+}
+
+.wpb_content_element.cmo_tabs {
+  .cmo_tabs_wrapper .cmo_tab {
+    &:extend(.doption-border-color);
+    border: 1px solid;
+    border-top: none;
+    padding: 1em;
+    .wpb_content_element:last-child {
+      margin-bottom: 0;
+    }
+    &.no-padding {
+      padding: 0;
+    }
+    &.container {
+      max-width: 100%;
+    }
+  }
+
+  .container {
+    padding: 0;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+  .cmo_tabs_nav {
+    &:extend(.doption-border-color);
+    border: 1px solid;
+    border-bottom: 0px;
+    border-top: 0px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0 !important;
+    display: table !important;
+    width: 100%;
+    & > li {
+      float: none;
+      display: table-cell !important;
+      padding: 0;
+      text-align: center;
+      font-weight: 300;
+      width: auto;
+      line-height: 1;
+      background-clip: padding-box;
+      font-size: 16px;
+      &:extend(.doption-border-color);
+      &:extend(.doption-border-color-as-color);
+      border-style: solid;
+      border-width: 1px 0px 1px;
+      a {
+        display: block;
+        padding: 15px;
+        white-space: normal;
+        color: #999999;
+        font-weight: 600;
+        img {
+          .lh-filter ( grayscale(80%) );
+          .lh-transition( all 0.3s ease );
+          width: 100%;
+          opacity: 0.7;
+          &:hover {
+            .lh-filter ( grayscale(0%) );
+            opacity: 1;
+          }
+        }
+        i {
+          vertical-align: middle;
+          font-size: 1.5em;
+        }
+        i + span, span + i {
+          margin-left: 10px;
+        }
+      }
+
+      &.ui-tabs-active {
+        font-weight: 600;
+        border-top: none;
+        border-bottom: none;
+        a {
+          img {
+            .lh-filter (grayscale(0%));
+            opacity: 1;
+          }
+        }
+        &:not(.with-image) {
+          &:extend(.doption-primary-color-as-background);
+        }
+      }
+      &:not(:last-child) {
+        &:extend(.doption-border-color);
+        border-right: 1px solid !important;
+      }
+      &.icon-block {
+        a {
+          padding-top: 35px;
+          padding-bottom: 35px;
+          i {
+            margin-bottom: 10px;
+            display: block;
+            font-size: 25px;
+          }
+
+        }
+      }
+      &.with-image {
+        border: none;
+        a {
+          padding: 0px;
+        }
+        &.ui-tabs-active {
+          border: none;
+        }
+
+        &:not(:last-child) {
+          padding-right: 0px;
+        }
+      }
+    }
+  }
+  &.active-border-top {
+    .cmo_tabs_wrapper .cmo_tab {
+      &:extend(.doption-primary-bg-color);
+    }
+    .cmo_tabs_nav {
+      li:not(.ui-tabs-active) {
+        border-width: 1px 0px 1px 0px;
+        background-color: transparent;
+      }
+      li.ui-tabs-active {
+        background-color: transparent !important;
+        a {
+          &:extend(.doption-primary-color-as-border);
+          color: @black;
+          border-color: inherit;
+          border-style: solid;
+          border-width: 3px 0px 0px 0px;
+        }
+      }
+    }
+  }
+  &.active-background {
+    .cmo_tabs_nav {
+      li{
+        background-color: transparent;
+        &.ui-tabs-active {
+          &:extend(.doption-primary-color-as-background);
+          a {
+            color: @white;
+          }
+        }
+      }
+    }
+    .cmo_tabs_wrapper .cmo_tab {
+      &:extend(.doption-primary-color-as-background);
+      color: @white;
+    }
+  }
+  &.no-border {
+    .cmo_tabs_wrapper .cmo_tab {
+      border: none;
+    }
+    .cmo_tabs_nav {
+      border: none;
+      & > li {
+        border: none !important;
+      }
+    }
+  }
+}
+
+
+.wpb_content_element.cmo_vtabs {
+  .cmo_tabs_nav {
+    border: none;
+    float: left;
+    width: 31.66666667%;
+    padding-left: 0 !important;
+    li {
+      background-color: #f5f5f5;
+      margin: 0;
+      font-size: 14px;
+      line-height: 30px;
+      a {
+        display: block;
+        padding: 10px 20px;
+        &:extend(.doption-primary-color);
+        white-space: normal;
+        i {
+          margin-right: 15px;
+          font-size: 24px;
+          width: 30px;
+          text-align: center;
+          vertical-align: middle;
+        }
+      }
+      &.ui-tabs-active {
+        &:extend(.doption-primary-color-as-background);
+        a {
+          font-weight: 600;
+          color: @white;
+        }
+      }
+      &.icon-block {
+        i {
+          margin-top: 10px;
+          margin-bottom: 10px;
+          display: block;
+          font-size: 25px;
+        }
+      }
+    }
+  }
+  .cmo_tab {
+    background-color: #f5f5f5;
+    padding: 25px;
+    box-sizing: border-box;
+    border: none;
+    float: left;
+    width: 68.33333333%;
+    &:extend(.doption-primary-color-as-border);
+    border-left: 1px solid;
+    margin-left: -1px;
+  }
+  .cmo_next_prev_nav {
+    margin-left: 31.66666667%;
+    font-size: 80%;
+    display: none;
+
+    span {
+      width: 48%;
+      display: inline-block;
+      padding-top: 1em;
+      float: left;
+      &.cmo_next_slide {
+        text-align: right;
+        float: right;
+      }
+    }
+    a {
+      border-bottom: 1px dotted;
+      text-decoration: none;
+    }
+  }
+}
+
+
+.cmo_tabs.wpb_content_element.cmo-restaurant-menu-tab {
+	margin-top: 70px;
+	
+	position: relative;
+	ul.cmo_tabs_nav {
+		display: block;
+		position: absolute;
+		text-align: center;
+
+		border-left: 0;
+		border-right: 0;
+
+		z-index: 9;
+		
+		top: -50px;
+		
+		@media ( max-width: 767px ) {
+			top: -25px;
+		}
+
+		&>li.with-image {
+			display: inline-block !important;
+			width: 100px;
+			height: 100px;
+			
+			border: 2px solid #aba174 !important;
+			border-right: 2px solid #aba174 !important;
+			padding: 8px;
+			background-color: white;
+			
+			@media ( max-width: 767px ) {
+				width: 50px;
+				height: 50px;
+				padding: 3px;
+			}
+
+			& > a.ui-tabs-anchor {
+				width: 80px !important;
+				height: 80px !important;
+				display: block;
+				
+				@media ( max-width: 767px ) {
+					width: 40px !important;
+					height: 40px !important;
+				}
+
+				&>img {
+					width: 100%;
+					height: 100%;
+				}
+			}
+
+			& + li {
+				margin-left: 15px;
+			}
+
+			&:not(:last-child) {
+				padding-right: 8px;
+			}
+		}
+		
+		&+.container {
+			margin-top: 50px;
+			.lh-box-shadow( 0px 2px 10px 1px rgba(0, 0, 0, 0.3) );
+		}
+	}
+
+	div.cmo_tab {
+		.vc_row.wpb_row {
+			
+		}
+		
+		padding: 100px 20px 20px !important;
+	}
+}

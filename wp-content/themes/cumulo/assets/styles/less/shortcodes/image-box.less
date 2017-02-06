@@ -1,0 +1,82 @@
+.cmo-image-box {
+  cursor: default;
+
+  .img-wrapper {
+    position: relative;
+    img {
+      width: 100%;
+      .lh-transition(all 0.2s ease-in-out);
+    }
+
+    .overlay-wrapper {
+      background-color: transparent;
+      color: @white;
+      position: absolute;
+      padding: 5px 15px;
+      bottom: 30px;
+      border: none;
+      max-width: 100%;
+      width: 95%;
+      right: 0px;
+      max-height: 54px;
+      overflow: hidden;
+      display: block;
+      color: #ffffff;
+      font-weight: 600;
+      .title {
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 20px;
+        white-space: nowrap;
+        color: inherit;
+      }
+      .subtitle {
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 24px;
+        white-space: nowrap;
+        color: inherit;
+      }
+    }
+  }
+
+  .content-wrapper {
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+
+    .title {
+      .lh-transition(all 0.2s ease-in-out);
+      margin-bottom: 10px;
+    }
+  }
+
+  &.grey_40 {
+    img {
+      .lh-filter ( grayscale(40%) );
+    }
+    &:hover {
+      img {
+        .lh-filter (grayscale(0%));
+      }
+    }
+  }
+
+  &.grey_80 {
+    img {
+      .lh-filter ( grayscale(80%) );
+    }
+    &:hover {
+      img {
+        .lh-filter (grayscale(0%));
+      }
+    }
+  }
+
+  &:hover {
+    .content-wrapper .title {
+      &:extend( .doption-primary-color );
+    }
+  }
+
+}

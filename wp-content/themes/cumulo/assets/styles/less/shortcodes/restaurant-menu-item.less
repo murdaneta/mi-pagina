@@ -1,0 +1,45 @@
+.cmosc-restaurant-menu-item {
+	font-family: "Old Standard TT";
+
+	.cmosc-restaurant-menu {
+		display: table;
+	}
+	
+	span.cmosc-restaurant-menu-item-title {
+		font-size: 16px;
+		font-weight: bold;
+		line-height: 42px;
+
+		display: table-cell;
+		white-space: nowrap;
+
+		padding-right: 5px;
+
+		&:extend( .doption-heading-color );
+	}
+
+	span.cmosc-restaurant-menu-item-price {
+		font-size: 24px;
+		font-weight: bold;
+		
+		&:extend( .doption-primary-color );
+		
+		display: table-cell;
+		white-space: nowrap;
+
+		padding-left: 5px;
+	}
+
+	.cmosc-restaurant-menu-item-separator {
+		background-image: url( '../../images/dot.jpg');
+		background-repeat: repeat-x;
+		display: table-cell;
+		background-position: center center;
+
+		width: 100%;
+	}
+
+	.cmosc-restaurant-menu-item-desc {
+		
+	}
+}

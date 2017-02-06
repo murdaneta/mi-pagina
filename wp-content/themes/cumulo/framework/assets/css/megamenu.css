@@ -1,0 +1,59 @@
+ul.menu>li.menu-item p.megamenu-item{
+	display: none;
+}
+
+ul.menu>li.menu-item p.megamenu-item.disabled-menu {
+	display: none !important;
+}
+
+ul.menu>li.menu-item.menu-item-depth-0 p.megamenu-item.field-cmo_enable_megamenu {
+	 display: block;
+}
+ul.menu>li.menu-item.menu-item-depth-0 p.megamenu-item.field-cmo_mega_background {
+	 display: block;
+}
+
+ul.menu>li.menu-item.menu-item-depth-0 p.megamenu-item.field-cmo_disable_caption {
+	 display: none;
+}
+
+ul.menu>li.menu-item.menu-item-depth-0 p.megamenu-item.field-cmo_fa_icons {
+	 display: block;
+}
+
+ul.menu>li.menu-item.menu-item-depth-1 p.megamenu-item.field-cmo_enable_megamenu {
+	 display: none;
+}
+
+ul.menu>li.menu-item.menu-item-depth-1 p.megamenu-item.field-cmo_disable_caption {
+	 display: block;
+}
+
+ul.menu>li.menu-item.menu-item-depth-1 p.megamenu-item.field-cmo_fa_icons {
+	 display: block;
+}
+
+ul.menu>li.menu-item.menu-item-depth-2 p.megamenu-item.field-cmo_enable_megamenu {
+	 display: none;
+}
+
+ul.menu>li.menu-item.menu-item-depth-2 p.megamenu-item.field-cmo_disable_caption {
+	 display: none;
+}
+
+ul.menu>li.menu-item.menu-item-depth-2 p.megamenu-item.field-cmo_widget_on_menu {
+	 display: block;
+}
+ul.menu>li.menu-item.menu-item-depth-2 p.megamenu-item.field-cmo_fa_icons {
+	 display: block;
+}
+
+.megam-file-upload-path {
+	width: calc( 100% - 65px );
+}
+
+.megam-file-upload {
+	display: inline-block;
+	max-width: 60px;
+	width: 100%;
+}

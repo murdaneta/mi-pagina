@@ -1,0 +1,59 @@
+.cmo-icon-list {
+  padding-left: 0px !important;
+  &.ordered-list {
+    li {
+      line-height: 30px;
+      counter-increment: step-counter;
+      position: relative;
+      p {
+        padding-left: 40px;
+      }
+      &:before {
+        position: absolute;
+        top: 50%;
+        margin-top: -14px;
+        &:extend(.doption-primary-color-as-background);
+        content: counter(step-counter);
+        margin-right: 10px;
+        font-size: 14px;
+        color: @white;
+        font-weight: bold;
+        padding: 0;
+        width: 28px;
+        height: 28px;
+        text-align: center;
+        border-radius: 14px;
+        float: left;
+        line-height: 30px;
+      }
+    }
+  }
+}
+
+.cmo-icon-list-item {
+  color: inherit;
+  clear: both;
+  line-height: 30px;
+  list-style: none !important;
+  position: relative;
+
+  i {
+    position: absolute;
+    top: 50%;
+    margin-top: -14px;
+    &:extend(.doption-primary-color);
+    float: left;
+    font-size: 16px;
+    line-height: 30px;
+    width: 28px;
+    height: 28px;
+    text-align: center;
+    &:before {
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
+  p {
+    padding-left: 40px;
+  }
+}

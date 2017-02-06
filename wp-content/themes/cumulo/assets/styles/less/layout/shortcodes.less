@@ -1,0 +1,101 @@
+/* simple shortcodes */
+.cmosc-contact-info {
+	color: #969595;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+	border-top: 1px solid fade( @white, 5% );
+
+	i {
+		color: #4a4a4a;
+		font-size: 16px;
+		display: block;
+		float: left;
+
+		margin-top: 5px;
+	}
+	
+	i + div {
+		margin-left: 30px;
+	}
+}
+
+.cmosc-link {
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+	& > a {
+		color: #969595;
+		&:hover {
+			&:extend(.doption-primary-color);
+		}
+
+		& > i {
+			margin-right: 10px;
+			&:extend(.doption-primary-color);
+		}
+	}
+}
+/* end of simple shortcodes */
+
+
+/* MailPoet form */
+p.wysija-paragraph {
+	float: left;
+	display: block;
+	margin-bottom: 0;
+
+	&:before {
+		display: block;
+		content: '';
+	}
+
+	input.wysija-input {
+		padding: 15px;
+		outline: none;
+		.lh-appearance ( none );
+
+		border: 1px solid @border-color;
+		&:extend(.doption-border-color);
+		
+		width: 100%;
+		height: 45px;
+	}
+
+	.lh-calc ( width, ~'100% - 50px' );
+	position: relative;
+
+	&>div {
+		top: 110% !important;
+		left: 0 !important;
+	}
+}
+
+.widget_wysija_cont .wysija-submit {
+	font-size: 13px;
+	line-height: 1;
+	height: 45px;
+
+	width: 50px;
+	margin: 0;
+
+	&:extend(.doption-primary-color-as-background);
+	/* !primary-color */
+	border: 1px solid fade( @black, 3 );
+	display: inline-block;
+
+	outline: none;
+	.lh-appearance( none );
+	padding: 15px;
+
+	color: @white;
+	text-transform: uppercase;
+
+	cursor: pointer;
+	
+	.clearfix();
+}
+
+.cmo-post-carousel-container article {
+	margin: 0 15px;
+}

@@ -1,0 +1,71 @@
+.cmo-data-counter {
+  position: relative;
+  min-height: 200px;
+  margin-bottom: 0px;
+  text-align: center !important;
+  .wrapper {
+      .vhcenter();
+    white-space: nowrap;
+  }
+  .icon {
+    width: 60px;
+    height: 60px;
+    font-size: 45px;
+    line-height: 60px;
+    display: inline-block;
+    float: left;
+    &:before {
+      margin: 0;
+    }
+  }
+  .image {
+    background-repeat: no-repeat;
+    background-size: initial;
+    background-position: 50% 50%;
+  }
+  .content-container {
+    &:extend( .doption-heading-font );
+    .count {
+      font-size: 36px;
+      line-height: 40px;
+    }
+    .title {
+      font-size: 13px;
+      line-height: 20px;
+    }
+  }
+
+  &.icon-left:not(.icon-none) {
+    .content-container {
+      margin-left: 80px;
+    }
+  }
+
+  &.icon-top {
+    .icon {
+      margin: 0 auto;
+      display: block;
+      float: none;
+    }
+    .content-container {
+      clear: both;
+      .count {
+        margin: 10px 0;
+      }
+    }
+    &.text-left .icon {
+      float: left;
+    }
+    &.text-right .icon {
+      float: right;
+    }
+  }
+  &.icon-right:not(.icon-none) {
+    .icon {
+      float: right;
+    }
+    .content-container {
+      margin-right: 80px;
+    }
+  }
+}

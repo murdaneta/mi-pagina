@@ -1,0 +1,48 @@
+.cmosc-woo-carousel {
+	.woocommerce {
+		margin-top: 50px;
+	}
+	
+	.woocommerce ul.products li.product {
+		float: none;
+		width: 100%;
+		margin: 0;
+		padding: 0;
+		position: relative;
+	}
+	
+	.woocommerce ul.products.owl-carousel .owl-item {
+		padding: 10px;
+	}
+	
+	.woocommerce ul.products.owl-carousel {
+		.owl-controls {
+			position: absolute;
+			top: -50px;
+			right: 0;
+			
+			.owl-prev,
+			.owl-next {
+				border-radius: 0;
+				background-color: transparent;
+				border: 1px solid #333;
+				color: #333;
+				padding: 0;
+				margin: 0;
+				width: 35px;
+				height: 35px;
+				line-height: 35px;
+				font-size: 18px;
+				
+				.cmo-transition( border-color, color );
+			}
+			
+			.owl-next {
+				margin-right: 10px;
+			}
+			.owl-prev {
+				margin-right: 5px;
+			}
+		}
+	}
+}

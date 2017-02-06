@@ -1,0 +1,159 @@
+.cmo-section-header {
+  h2{
+    margin-bottom: 0px ;
+  }
+  .separator {
+    &:extend(.doption-heading-color-as-border);
+    content: '';
+    display: inline-block;
+    margin: auto;
+    position: relative;
+    width: 20%;
+    max-width: 100px;
+    height: 5px !important;
+    opacity: 0.6;
+    border: 1px solid;
+    box-sizing: border-box;
+    .lh-transition( all 0.3s ease );
+    &:before {
+      &:extend(.doption-heading-color-as-background);
+      .lh-transition( all 0.3s ease );
+      content: '';
+      height: 1px;
+      max-width: 120px;
+      width: 120%;
+      position: relative;
+      float: right;
+      right: 100%;
+      top: 1px;
+      opacity: 0.5;
+    }
+    &:after {
+      &:extend(.doption-heading-color-as-background);
+      .lh-transition( all 0.3s ease );
+      content: '';
+      height: 1px;
+      max-width: 120px;
+      width: 120%;
+      position: absolute;
+      float: left;
+      left: 100%;
+      top: 1px;
+      opacity: 0.5;
+    }
+  }
+  .header-text {
+    font-size: 16px;
+    margin-top: 10px ;
+    letter-spacing: 0.5px;
+  }
+  &.text-left {
+    .separator {
+      margin-left: 2px;
+      &:before {
+        max-width: 2px;
+      }
+      &:after {
+        max-width: 170px;
+        width: 170%;
+      }
+    }
+  }
+  &.text-right {
+    .separator {
+      margin-right: 2px;
+      &:after {
+        max-width: 2px;
+      }
+      &:before {
+        max-width: 170px;
+        width: 170%;
+      }
+    }
+  }
+  &.separator-none {
+    .separator {
+      display: none;
+    }
+  }
+  &:hover {
+    .separator {
+    }
+    &.text-left {
+      .separator {
+        &:after {
+          max-width: 210px;
+          width: 210%;
+        }
+      }
+    }
+    &.text-left {
+      .separator {
+        &:after {
+          max-width: 210px;
+          width: 210%;
+        }
+      }
+    }
+    &.text-center {
+      .separator {
+        &:before, &:after {
+          max-width: 190px;
+          width: 190%;
+        }
+      }
+    }
+  }
+  
+  &.separator-weightlifting {
+  	.separator {
+  		border: none;
+  		max-width: 80px;
+  		width: 80px;
+  		
+  		&>span:first-child { margin-left: 20px; }
+  		
+  		.small-cir {
+  			display: block;
+		    content: '';
+		    border: 1px solid;
+		    
+		    width: 5px;
+		    height: 10px;
+		    
+		    border-radius: 1px;
+		    float: left;
+		    margin-top: -5px;
+  		}
+
+  		.large-cir {
+  			display: block;
+		    content: '';
+		    border: 1px solid;
+		    
+		    width: 5px;
+		    height: 15px;
+		    
+		    border-radius: 1px;
+		    float: left;
+		    margin-top: -7.5px;
+  		}
+
+  		.bar {
+  			width: 22px;
+  			height: 5px;
+  			content: '';
+  			display: block;
+  			float: left;
+  			
+  			margin-top: -2.5px;
+  			&:extend(.doption-heading-color-as-background);
+  		}
+  	}
+  }
+  
+  &.text-left.separator-weightlifting .separator {
+  	max-width: 60px;
+  	&>span:first-child { margin-left: 0px; }
+  }
+}
