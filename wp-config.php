@@ -38,6 +38,11 @@ define('DB_CHARSET', 'utf8mb4');
 define('DB_COLLATE', '');
 /** ftp directo */
 define( 'FS_METHOD', 'direct' );
+
+define( 'WP_MAX_MEMORY_LIMIT', '2256M' );
+
+define('WP_MEMORY_LIMIT', '32M');
+
 /**#@+
  * Authentication Unique Keys and Salts.
  *
